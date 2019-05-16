@@ -8,4 +8,4 @@ python GUI 百度文库、知网直接下载保存、wifi破解器（内含8200+
 
 ##运行结果如下：
 1、
-![https://github.com/CYBYOB/python-GUI-mini-tool-kit/blob/master/screenshoot/1.png]
+![](https://github.com/CYBYOB/python-GUI-mini-tool-kit/blob/master/screenshoot/1.png)
