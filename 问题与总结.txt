@@ -1,0 +1,52 @@
+一、问题：
+1、
+2、
+
+
+
+二、总结
+1、设置窗口名字 ： my_tk.title('窗口名字')
+2、my_tk.geometry('500x500') 设置窗口大小 ,注意是 小写的字母 x 不是乘号
+3、添加按钮：
+    b1 = tk.Button(my_tk,text='按钮名', width =15, height=15..., command=f)
+    b1.pack()
+    代码解释：
+    １、Button里面可以穿入很多参数，进行 Button实例的设置，command类似回调函数，
+    但我们只需传入函数名即可（不可以有双当引号等多余的东西，参数？？
+    2、pack()函数将按钮等东西 “挂载、渲染到其父（一般为 tk实例）上”
+
+4、“组件传参”：command= lambda : test(var.get()) ==》 var=tk.StringVar()
+    fruit = [('option A', 'A'), ('option B', 'B'), ('option C', 'C'),
+             ('option D', 'D'), ('option E', 'E')]
+    var = tk.StringVar()
+    var.set('B')
+
+    for text, value in fruit:
+        tk.Radiobutton(root, text=text, value=value, variable=var,command= lambda : test(var.get())).pack()
+
+5、输入框 tk.Entry() 参数里面是没有 command 的，需要通过点击某按钮进行 e.get() 传参操作
+6、引入 提示、对话框等，要 单独引入 ==> import tkinter.messagebox ,
+    就算是 from tkinter import * 也不行
+
+    tk.messagebox.askquestion()返回 yes 或者 no
+
+7、lambda 后面的函数名后要带上 （）！！！！
+8、tkinter pack和graid不能混用
+9、rowspan=2 ==> 跨2行。   padx=5, pady=5  ==》  x、y “内边距均为 5”
+10、认识了tearoff这个菜单选项中的设置，它的值只有0和1，将tearoff设置为1以后，就是表明这个菜单是可以独立出来的，如果是0的话就不可以独立出来。
+没有 my_tk.config(menu=my_menubar) 是不会显示菜单栏的！！
+11、my_tk窗口的显示与隐藏：
+    deiconify 、 withdraw。
+
+12、
+
+
+
+三、亮点：
+1、使用类、继承 ==》 节省代码
+2、使用 selenium 、 findxxx
+3、使用各种 GUI 空件
+4、GUI跳转 显示/隐藏之间的完美切换
+5、用了 pack、graid 布局
+6、封装、模块化
+7、

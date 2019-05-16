@@ -1,0 +1,3687 @@
+             .reader-txt-layer a.keyword {color:#19a97b;text-decoration:none;}.reader-txt-layer a.keyword:hover {text-decoration:none;border-bottom: 15px solid#19a97b;}.reader-txt-layer span.keyword-span-wrap {color:#19a97b;}.reader-txt-layer span.keyword-span-wrap:hover {text-decoration:none;cursor:pointer;border-bottom: 15px solid#19a97b;}  .reader-word-s1-0{ font-size:225px;} .reader-word-s1-0,.reader-word-s1-3,.reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-7,.reader-word-s1-1{ font-weight:600;} .reader-word-s1-0,.reader-word-s1-1,.reader-word-s1-3,.reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-2{ color:#000000;} .reader-word-s1-5,.reader-word-s1-3{ font-family:'Times New Roman Bold','8f9cf8ea04a1b0717fd5dd800020001','Times New Roman Bold';} .reader-word-s1-5,.reader-word-s1-7,.reader-word-s1-4{ font-size:193px;} .reader-word-s1-5{ font-size:193px;} .reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-6{ font-size:193px;} .reader-word-s1-7{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800030001','宋体';} .reader-word-s1-7,.reader-word-s1-8{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800030001','宋体';} .reader-word-s1-9{ font-family:'Times New Roman','8f9cf8ea04a1b0717fd5dd800040001','Times New Roman';} #pageNo-1 .reader-parent{visibility:visible;}.reader-word-s3-1,.reader-word-s3-3,.reader-word-s3-4,.reader-word-s3-5,.reader-word-s3-8,.reader-word-s3-10,.reader-word-s3-0{ font-size:193px;} .reader-word-s3-8,.reader-word-s3-1{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800030003','宋体';} .reader-word-s3-0,.reader-word-s3-1,.reader-word-s3-3,.reader-word-s3-4,.reader-word-s3-5,.reader-word-s3-6,.reader-word-s3-7,.reader-word-s3-8,.reader-word-s3-9,.reader-word-s3-10,.reader-word-s3-2{ color:#000000;} .reader-word-s3-3{ font-family:'Times New Roman','8f9cf8ea04a1b0717fd5dd800040003','Times New Roman';} .reader-word-s3-5,.reader-word-s3-8,.reader-word-s3-4{ font-weight:600;} .reader-word-s3-5{ font-family:'Times New Roman Bold','8f9cf8ea04a1b0717fd5dd800020003','Times New Roman Bold';} .reader-word-s3-4,.reader-word-s3-5,.reader-word-s3-7,.reader-word-s3-8,.reader-word-s3-9,.reader-word-s3-6{ font-weight:600;} .reader-word-s3-5,.reader-word-s3-7{ font-family:'Times New Roman Bold','8f9cf8ea04a1b0717fd5dd800020003','Times New Roman Bold';} .reader-word-s3-8{ font-weight:600;} .reader-word-s3-9{ font-size:225px;} .reader-word-s3-10{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800050003','宋体';} #pageNo-3 .reader-parent{visibility:visible;}.reader-word-s2-1,.reader-word-s2-2,.reader-word-s2-3,.reader-word-s2-4,.reader-word-s2-5,.reader-word-s2-6,.reader-word-s2-0{ color:#000000;font-size:193px;} .reader-word-s2-1{ font-family:'Times New Roman','8f9cf8ea04a1b0717fd5dd800040002','Times New Roman';} .reader-word-s2-5,.reader-word-s2-2{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800030002','宋体';} .reader-word-s2-4,.reader-word-s2-5,.reader-word-s2-6,.reader-word-s2-3{ font-weight:600;} .reader-word-s2-6,.reader-word-s2-4{ font-family:'Times New Roman Bold','8f9cf8ea04a1b0717fd5dd800020002','Times New Roman Bold';} .reader-word-s2-5{ font-weight:600;} .reader-word-s2-6{ letter-spacing:0.18px;} #pageNo-2 .reader-parent{visibility:visible;}.reader-word-s4-1,.reader-word-s4-3,.reader-word-s4-4,.reader-word-s4-6,.reader-word-s4-9,.reader-word-s4-11,.reader-word-s4-12,.reader-word-s4-13,.reader-word-s4-15,.reader-word-s4-16,.reader-word-s4-0{ font-size:193px;} .reader-word-s4-1{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800050004','宋体';} .reader-word-s4-0,.reader-word-s4-1,.reader-word-s4-3,.reader-word-s4-4,.reader-word-s4-5,.reader-word-s4-6,.reader-word-s4-7,.reader-word-s4-8,.reader-word-s4-9,.reader-word-s4-10,.reader-word-s4-11,.reader-word-s4-12,.reader-word-s4-13,.reader-word-s4-14,.reader-word-s4-15,.reader-word-s4-16,.reader-word-s4-2{ color:#000000;} .reader-word-s4-4,.reader-word-s4-6,.reader-word-s4-9,.reader-word-s4-13,.reader-word-s4-3{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800030004','宋体';} .reader-word-s4-4{ letter-spacing:-1.79px;} .reader-word-s4-3,.reader-word-s4-4,.reader-word-s4-6,.reader-word-s4-8,.reader-word-s4-9,.reader-word-s4-10,.reader-word-s4-13,.reader-word-s4-5{ font-family:'宋体','8f9cf8ea04a1b0717fd5dd800030004','宋体';} .reader-word-s4-6{ font-weight:600;} .reader-word-s4-6,.reader-word-s4-8,.reader-word-s4-10,.reader-word-s4-14,.reader-word-s4-7{ font-weight:600;} .reader-word-s4-6,.reader-word-s4-10,.reader-word-s4-8{ font-weight:600;} .reader-word-s4-9{ letter-spacing:-0.6px;} .reader-word-s4-10{ letter-spacing:0.8px;} .reader-word-s4-12,.reader-word-s4-15,.reader-word-s4-11{ font-family:'Times New Roman','8f9cf8ea04a1b0717fd5dd800040004','Times New Roman';} .reader-word-s4-12{ letter-spacing:0.17px;} .reader-word-s4-13{ letter-spacing:0.2px;} .reader-word-s4-14{ font-size:225px;} .reader-word-s4-15{ letter-spacing:-0.36px;} .reader-word-s4-15,.reader-word-s4-16{ letter-spacing:-0.36px;} #pageNo-4 .reader-parent{visibility:visible;}  .reader-txt-layer a.keycard {color:#000;text-decoration:none;border-bottom: 15px solid #19a979;}     
+ 
+ 
+ 
+ 
+
+
+
+ 软件工程考试重点内容 - 百度文库 
+
+ 
+    // 性能优化：打点标识title
+    window.viewTime = {
+        t: new Date().getTime()
+    };
+    // 性能优化：打点标识title end
+    window.alogObjectConfig = {
+        sample: '0.2',
+ 
+        product: '112',
+        page: '112_5',
+        monkey_page: 'wenku-view',
+        speed_page: '',
+        speed: {
+            sample: '0.1'
+        },
+ 
+        monkey: {
+            sample: '0.1'
+        },
+ 
+        exception: { 
+            sample: '0.1'
+        },
+ 
+        feature: {
+            sample: '0.1'
+        },
+ 
+        cus: {
+            sample: '0.1'
+        },
+ 
+        csp: {
+            sample: '0.2',
+            'default-src': [
+                {match: '*bae.baidu.com', target: 'Accept,Warn'},
+                {match: '*.baidu.com,*.bdstatic.com,*.baidustatic.com,*.baiduimg.com,*.bdimg.com,localhost,*.hao123.com,*.hao123img.com', target: 'Accept'},
+                {match: /^(127|172|192|10)(\.\d+){3}$/, target: 'Accept'},
+                {match: '*', target: 'Accept,Warn'}
+            ]
+        }
+    };
+    void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&amp;&amp;a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i&gt;a.alogObjectConfig.sample&amp;&amp;(h=!1)}h&amp;&amp;(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&amp;&amp;alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+    void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&amp;&amp;/^script error/i.test(n)&amp;&amp;(o?i=!1:o=!0),i&amp;&amp;alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+ 
+
+
+ 
+    var PLAYER_LOAD_START = (new Date()).getTime();
+ 
+ 
+&lt;style type="text/css"&gt;
+        .no-script {
+            background-color: #ffffe1;
+            color: #333;
+            font-size: 14px;
+            line-height: 20px;
+            padding: 10px 0 10px 121px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #f1f1f1;
+        }
+        .no-script&gt;a {
+                text-align: center;
+                width: 100%;
+                text-decoration: underline;
+                color: #333;
+            }
+        }
+    &lt;/style&gt;
+&lt;div class="no-script"&gt;
+您的浏览器Javascript被禁用，需开启后体验完整功能，&lt;a style=""
+            target="_blank" class="link-to-enable-js"
+            href="https://wenku.baidu.com/go/help_js"&gt;
+请单击此处查询如何开启&lt;/a&gt;
+&lt;img style="display: none;" src="https://wkctj.baidu.com/click.gif?pid=1&amp;bid=1&amp;fr=4&amp;act_id=101711"&gt;
+&lt;/div&gt;
+  
+            (function(){
+                var root = document.documentElement,
+                        screenClassName = +screen.width &gt; 1024 ? 'max' : 'min';
+                root.className += ' screen-' + screenClassName;
+            })();
+         
+ 
+            // 事业部seo监控
+            window.seoMonitorConf = {
+                mode: 'wenku_pc'
+            };
+            var seoSrc = 'https://edu-wenku.bdimg.com/v1/usergrowth/seo.online.js?t=' + new Date().getTime();
+            var script = document.createElement('script');
+            script.src = seoSrc;
+            setTimeout(function () {
+                try {
+                    document.body.appendChild(script);
+                    setTimeout(function () {
+                        document.body.removeChild(script);
+                    }, 1000);
+                }
+                catch (e) {
+
+                }
+            }, 2000);
+            // 事业部seo监控 end
+         
+
+
+
+ 
+
+ !function(n){var t={},i={};i._data=t,i.get=function(n){return t[n]},i.set=function(n,i){if("string"==typeof n)t[n]=i;else for(var r in n)n.hasOwnProperty(r)&amp;&amp;(t[r]=n[r])},n.__fisData=i}(window); 
+                alog('speed.set', 'ht', +new Date);   .fc-ad-line{position:relative}.fc-ad-line:after{display:block;content:"";position:absolute;left:-50%;bottom:0;width:200%;height:1px;background:#e5e5e5;-webkit-transform:scale(.5);transform:scale(.5);pointer-events:none}  .fc-parallax-scrolling{height:88px;position:relative;overflow:hidden;width:100%;min-width:560px}.fc-parallax-scrolling a{text-decoration:none;color:#fff}.fc-parallax-scrolling .fc-parallax-scrolling-wrapper{width:100%;position:absolute;top:-88px}.fc-parallax-scrolling .fc-parallax-scrolling-wrapper .fc-parallax-scrolling-run{display:block;width:100%;height:88px;margin:0;padding:0}.fc-parallax-scrolling-d9b779{background-color:#d9b779}.fc-parallax-scrolling-25ae84{background:#25ae84}.fc-parallax-scrolling-25ae84 .fc-parallax-scrolling-bogus{color:#f8e71c}.fc-parallax-scrolling .fc-parallax-scrolling-without-image .fc-parallax-scrolling-text{padding-left:6.8%}.fc-parallax-scrolling-text-line{overflow:hidden;text-overflow:ellipsis;-ms-text-overflow:ellipsis;-o-text-overflow:ellipsis;white-space:nowrap}.fc-parallax-scrolling .fc-parallax-scrolling-text .fc-parallax-scrolling-title{width:78%;font-size:24px;height:24px;line-height:24px;padding:19px 0 13px}.fc-parallax-scrolling .fc-parallax-scrolling-text .fc-parallax-scrolling-content{width:100%;height:14px;font-size:14px;line-height:14px}.fc-parallax-scrolling .fc-parallax-scrolling-text .fc-parallax-scrolling-content .fc-parallax-scrolling-content-left{width:100%;float:left}.fc-parallax-scrolling .fc-parallax-scrolling-text .fc-parallax-scrolling-sub{max-width:55%;display:inline-block}.fc-parallax-scrolling .fc-parallax-scrolling-text .fc-parallax-scrolling-tag{display:inline-block;font-size:12px;border:1px solid #fff;border-radius:2px;margin-right:6px;vertical-align:top}.fc-parallax-scrolling .fc-parallax-scrolling-text .fc-parallax-scrolling-bogus{display:inline-block;margin-left:13px;vertical-align:top}.fc-parallax-scrolling .fc-parallax-scrolling-wrapper .fc-parallax-scrolling-with-image .fc-parallax-scrolling-text{float:left;width:100%;margin-left:-268px}.fc-parallax-scrolling .fc-parallax-scrolling-wrapper .fc-parallax-scrolling-with-image .fc-parallax-scrolling-text-inner{margin-left:268px;padding-left:2.3%}.fc-parallax-scrolling .fc-parallax-scrolling-image{float:right;width:268px;background-color:#fff}.fc-parallax-scrolling .fc-parallax-scrolling-image ul{list-style:none;margin:0;padding:0}.fc-parallax-scrolling .fc-parallax-scrolling-image li{float:left}.fc-parallax-scrolling .fc-parallax-scrolling-image li div{width:88px;height:88px;background-repeat:no-repeat;background-size:cover;background-position:center center}.fc-parallax-scrolling .fc-parallax-scrolling-image .fc-parallax-scrolling-second-image{margin:0 2px}.fc-parallax-scrolling .fc-parallax-scrolling-without-image .fc-parallax-scrolling-text .fc-parallax-scrolling-bogus{float:none}@media (min-width:900px) and (max-width:1200px){.fc-parallax-scrolling .fc-parallax-scrolling-with-image .fc-parallax-scrolling-text .fc-parallax-scrolling-sub{width:90%}}@media (min-width:700px) and (max-width:900px){.fc-parallax-scrolling .fc-parallax-scrolling-with-image .fc-parallax-scrolling-text .fc-parallax-scrolling-sub{max-width:67%}}@media (min-width:600px) and (max-width:700px){.fc-parallax-scrolling .fc-parallax-scrolling-with-image .fc-parallax-scrolling-text .fc-parallax-scrolling-sub{max-width:59%}}                            (function(win){win.ecom = win.ecom || {};win.ecom.pl = win.ecom.pl || {};win.ecom.pl.imTimesign = parseInt("30" || 0, 10);win.ecom.pl.searchId = "000587d324a27bfa";})(window);(function(a){function b(d){var c=location.href.match("debug=1");var g=window.jQuery||{};if(!c){try{d(a.pl,g)}catch(f){}}else{d(a.pl,g)}}a.pl.run=function(d,c){if(c||arguments.length==1){bds.ready(function(){b(d)})}else{b(d)}};a.pl.q=function(f,g){g=g||document;if(g.getElementsByClassName){return g.getElementsByClassName(f)}else{var d=[];var c=g.all||g.getElementsByTagName("*");var e=c.length;f=f.replace(/\-/g,"\\-");var h=new RegExp("(^|\\s)"+f+"(\\s|$)");while(--e&gt;=0){if(h.test(c[e].className)){d.push(c[e])}}return d}}})(window.ecom);(function(v){var h=undefined,g=undefined;var l=0,k=0;var e=0;var o=0;var i=0;var d=0;var m=0;var b=0;var t=0;var r=/link\?url\=([^\&amp;]+)/;var n=/\?url\=([^\.]+)\./;function s(){var y=t.href;var x=r.exec(y)||n.exec(y);return x?x[1]:false}function u(z){var x=s();if(x!==false){var y=q(x,z);p(y)}}function p(z){var x="&amp;ck="+[z,e,b,l,k,h,g,m].join(".");if(t.href){var y=t.href;if(y.indexOf("&amp;ck=")==-1){t.href+=x}else{t.href=y.replace(/&amp;ck=[\d.]*/,x)}}}function q(A,C){var B=0;for(var z=0;z&lt;(((e*C)%99)+9);z++){var y=A.length&lt;20?A.length:20;B+=A.charCodeAt((b*z)%A.length)}return B}function w(x){x=x||window.event;e++;if(h===undefined){h=x.clientX}if(g===undefined){g=x.clientY}o=new Date().getTime()}function f(y,x){y=y||window.event;t=y.target||y.srcElement;while(t&amp;&amp;t.tagName!="A"){t=t.parentNode}i=new Date().getTime();b=9999;l=y.clientX;k=y.clientY;if(o===0){m=0}else{m=i-o}u(x)}function j(y,x){d=new Date().getTime();b=d-i;u(x)}function c(C,z,B){var A,x,y;for(y in z){A=z[y];x=B[y];if(window.attachEvent){C.attachEvent("on"+A,x)}else{C.addEventListener(A,x,false)}}}function a(x){return[function(y){w(y)},function(y){f(y,x)},function(y){j(y,x)}]}v.ck=function(B,A){if(B.length===undefined){B=[B]}var x=B.length;var y=0;var z=a(A);for(;y&lt;x;y++){c(B[y],["mouseover","mousedown","mouseup"],z)}}})(window.ecom.pl);window.ecom.pl.run(function(c){var e=c.q("mqosCe");for(var b=0;b&lt;e.length;b++){var a=e[b];var d=a.getElementsByTagName("A");c.ck(d,window.ecom.pl.imTimesign)}},false);       
+
+
+
+             免费安装&gt;&gt;         软件工程考试重点内容  113.9         使用下载券下载     免下载券下载      兑换后下载  免下载券下载       您共有 100 积分，可兑换：     3下载券    5下载券    10下载券    30下载券    50下载券     下载券    兑换后获得：  下载券 +赠3下载券   共消耗：  积分  下载券有效期： 30天     兑换并下载      花费下载券下载    续费VIP /赠5次下载特权      续费VIP    领取新手礼包    续费VIP      换一换       请输入正确的验证码！     续费3月即送下载特权     使用下载券下载  由于文档价格较高，建议您使用 下载特权 下载  因本次下载而产生的财富将由百度文库以一定方式转交版权人               免费安装&gt;&gt;         软件工程考试重点内容  113.9         使用下载券下载     免下载券下载      兑换后下载  免下载券下载       您共有 100 积分，可兑换：     3下载券    5下载券    10下载券    30下载券    50下载券     下载券    兑换后获得：  下载券 +赠3下载券   共消耗：  积分  下载券有效期： 30天     兑换并下载      花费下载券下载    续费VIP /赠5次下载特权      续费VIP    领取新手礼包    续费VIP      换一换       请输入正确的验证码！     续费3月即送下载特权     使用下载券下载  由于文档价格较高，建议您使用 下载特权 下载  因本次下载而产生的财富将由百度文库以一定方式转交版权人       
+
+
+
+
+
+ 
+(function(Data) {
+
+		var smallFlowContent = [];
+					smallFlowContent.push('xll_search_download' + '=' + '1');
+					smallFlowContent.push('xll_view_newviewtpl' + '=' + '0');
+					smallFlowContent.push('viewPageChangeOnePPT' + '=' + '1');
+					smallFlowContent.push('viewPageChangeOneXreader' + '=' + '1');
+					smallFlowContent.push('not_hit_dump_doc' + '=' + '1');
+				
+		Data.set('smallFlowContent', smallFlowContent);
+
+}(window.__fisData));
+ 
+
+ 
+	(function(Data) {
+		var WkInfo = Data.get("WkInfo") || {};
+		var isLogin="";WkInfo.PageInfo={isLogin:!!isLogin,copyright:"1",tpl:"wk_info",docTypeList:[["none",""],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["pdf","pdf\u6587\u6863"],["txt","txt\u6587\u6863"],["wps","Word\uff08\u91d1\u5c71\uff09"],["et","Excel\uff08\u91d1\u5c71\uff09"],["dps","PPT\uff08\u91d1\u5c71\uff09"],["vsd","Visio\u7ed8\u56fe"],["rtf","rtf\u6587\u6863"],["pot","PPT\u6a21\u677f"],["pps","PPT\u653e\u6620"],["epub","ePub\u6587\u6863"]]};
+;
+				Data.set("WkInfo",WkInfo);
+	}(window.__fisData));
+ 
+
+ 
+ 
+ 
+  百度首页  
+ 
+ 登录 
+ 
+ 
+ 
+ 加入VIP 
+ 
+
+    享专业文档下载特权  赠共享文档下载特权  100w优质文档免费下载  赠百度阅读VIP精品版   立即开通    
+  意见反馈  
+  下载客户端  
+ 
+ 
+ 
+ 网页 
+ 资讯 
+ 视频 
+ 图片 
+ 知道 
+ 文库 
+ 贴吧 
+ 采购 
+ 地图 
+ | 
+ 
+ 
+  
+
+ 
+ 
+
+ 
+/*
+    @require wkview:widget/down_doc/down_doc.less
+    @require wkview:widget/ui/panel/panel.less
+*/
+ 
+
+ 
+    (function (Data) {
+        Data.set('isHitVipDocLimited', +'');
+        var WkInfo = Data.get('WkInfo') || {};
+        // RD文库阅读页异步操作重构
+        WkInfo.Urls = {
+            'submitPriceUpdate': '\/doc\/submit\/priceUpdate' || '/submit', // 修改标价
+            'submitClassUpdate': '\/doc\/submit\/classUpdate' || '/submit', // 修改分类
+            'submitValue': '\/doc\/submit\/value' || '/submit', // 评分
+            'submitDownload': '\/user\/submit\/download' || '/submit', // 下载
+            'submitCollect': '\/user\/submit\/collect' || '/submit', // 收藏
+            'interfaceGetFoldSon': '\/user\/interface\/getFoldSon' || '/roomasync', // 获取文件夹结构
+            'interfaceGetViewFoldInfo': '\/user\/interface\/getViewFoldInfo' || '/roomasync', // 外链的文件夹结构
+            'submitFoldCreate': '\/user\/submit\/foldCreate' || '/roomasync', // 文件夹创建
+            'submitDocMove': '\/user\/submit\/docMove' || '/roomasync', // 移动
+            'submitBookmark': '\/user\/submit\/bookmark' || '/submit', // 书签
+            'interfaceGetRepeatDown': '\/user\/interface\/getRepeatDown' || '/async'//重复文档检查
+        };
+        WkInfo.transType = JSON.parse('[]');
+        WkInfo.DocInfo = {
+            'player': 'html',
+            'creater': '%D3%F6%BC%FB%CE%B4%D6%AA%B5%C4%E8%B4', // 贡献者
+            'createUserId': '1096024226',
+            'commentStar': '', // 文档已评论的星级
+            'isPayDocAndCommented': '0', // 文档是否已经评论（付费文档）
+            'title': '软件工程考试重点内容', // 文档标题
+            'docId': 'd7de31cf763231126edb11d2', // 文档id
+            'editorDocId': '', // html编辑器docid
+            'docType': 'doc', // 文档格式
+            'docTypeNum': '1', // 文档格式号
+            'flag': '0',
+            'can_dump': '1', // 文档是否可以转存网盘				
+            'cats': '1-10-118-0' || '0-0-0-0', // 文档分类
+            'cid1': '1', // 文档分类
+            'cid2': '10', // 文档分类
+            'cid3': '118', // 文档分类
+            'cid4': '0', // 文档分类
+            'price': '5', // 文档价格
+            'size': '116704', // 文档价格
+            'rateNum': '0', // 文档评分
+            'totalPageNum': '11', // 文档评分
+            'catal': '0',
+            'relateDoc': '0',
+            'otherLikeDoc': '0',
+            'relateAlblum': '0',
+            'sameSeriesDoc': '4',
+            'isInRoom': '0',
+            'freeDoc': '',
+            'freeMoney': '',
+            'readerType': 'xreader',
+            'payPrice': +'0', // 文档价格
+            'isPaymentDoc': +'0', // 是否为付费文档
+            'freepagenum': +'', // 免费阅读页数
+            'ispaied': +'', // 是否已经购买
+            'writername': '', // 付费文档作者名称
+            'isdownloaded': +'', // 是否允许下载
+            'isPrivate': !!'', // 是否为私有文档
+            'vip_free_buy': +'0',
+            'is_vip_free_doc': +'0',
+            'is_only_vip_doc': +'',
+            'vip_price': + '',
+            'vip_type': +'0',
+            // tianzheng 教育会员 明哲让我加的
+            'is_edu_doc': +'1',
+            'edu_vip_type': +'0',
+            'jiaoyu_vip_type': +'0',
+            'docTicket':+'2',
+            'JOINVIP_URL': '/vip/privilege',
+            'is_discount_doc': +'0',
+            'isInRoomButDeletedByCreater':!!'', // 
+            'goodsPayStatus': 'notPaymentDoc',
+            'price_supported_devices_info': '',
+            'confirm_price': +'',
+            'wk2yd': '0',
+            'docDesc': '',
+            'hasImage': '' || 0,
+            // 机构文档第二篇打折，必须数据
+            'org_discount_status':+'-1',
+            'org_discount_price':'',
+            'org_title':'',
+            'org_engName': '' || '',
+            'isOrgDoc': '0' || 0,
+            'is_exam_link': '0',
+            'professionalDoc': '', // 专业文档
+            'isRepeatDown': +'', // 付费文档是否已下载
+            'isPickDoc': +'0', // 收纳文档
+            'readerVersion': (function () {
+                var version = '3';
+                if (version != 1 &amp;&amp; version != 2 &amp;&amp; version != 3) {
+                    version = 1;
+                }
+                return version;
+            })(),
+            'isPartnerDoc': +'' || 0,
+            // 行业报告定制
+            'hangyebaogao_customized': +'' || 0,
+            'vipHuixueConvert': {
+                is_open: +'1'
+            }
+        };
+
+        WkInfo.PaceInfo = {
+            'rate': '30'
+        };
+        WkInfo.smallFlowContent = {
+            'not_hit_dump_doc': '1'
+        };
+        if (WkInfo.VipInfo) {
+            WkInfo.VipInfo.flag = '0';
+            WkInfo.VipInfo.professionalDocDownloadTicket = '';
+        }
+        else {
+            WkInfo.VipInfo = {
+                'flag': '0', // 专业会员
+                'professionalDocDownloadTicket': '' // 专业特权
+            }
+        }
+        if (WkInfo.UserInfo) {
+            WkInfo.UserInfo.smallFlowProfessionalDoc = '1'; // 专业文档小流量
+            WkInfo.UserInfo.isBGC = '';
+            WkInfo.UserInfo.isLogin = '';
+            WkInfo.UserInfo.sf_svip = '2111'; // 会员升级小流量
+        }
+        else {
+            WkInfo.UserInfo = {
+                'smallFlowProfessionalDoc': '1', // 专业文档小流量
+                'sf_svip': '2111' // 会员升级小流量
+            }
+        }
+        WkInfo.docType = {
+            '0': '',
+            '1': 'doc',
+            '2': 'xls',
+            '3': 'ppt',
+            '4': 'docx',
+            '5': 'xlsx',
+            '6': 'pptx',
+            '7': 'pdf',
+            '8': 'txt',
+            '9': 'wps',
+            '10': 'et',
+            '11': 'dps',
+            '12': 'vsd',
+            '13': 'rtf',
+            '14': 'pot',
+            '15': 'pps',
+            '16': 'epub'
+        };
+
+        // 协同推荐数据，暂时供下载后推荐使用
+        WkInfo.otherLikeDocRec = [];
+
+        
+        // 判断是否使用Bcs请求的地址
+        WkInfo.htmlBcs = +'1';
+        // htmlBcs迁移请求地址
+        WkInfo.htmlUrls = '{\x22ttf\x22:[{\x22pageIndex\x22:1,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=0-30580&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:2,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=30581-56591&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:3,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=56592-92624&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:4,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=92625-133260&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:5,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=133261-155150&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:6,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=155151-170465&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:7,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=170466-187214&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:8,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=187215-206358&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:9,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=206359-219404&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:10,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=219405-264321&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:11,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=264322-&amp;sign=1a301b4748\x22}],\x22json\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=0-13530&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XJmJvhjvwHYZ3E%2FsDJcSvER86%2FLhGPlAv56T%2FqwR4mo%3D.1556719391\x22},{\x22pageIndex\x22:2,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=13531-26879&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.3HKBEpLAfYth00UOdVbrKfLf56%2Fx11w4Sy1YbKpf3NA%3D.1556719391\x22},{\x22pageIndex\x22:3,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=26880-46089&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.m9h3EWQZIJCMoJtGd3U1dKf5g%2FJtUQWAT%2B%2FUrWIw370%3D.1556719391\x22},{\x22pageIndex\x22:4,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=46090-72378&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.KQApx%2FhtTXesnm3uEa33b7Tv9hLfgbwFjW%2FLQsj9Yls%3D.1556719391\x22},{\x22pageIndex\x22:5,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=72379-92319&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.%2BrlaZcJX0zk1XbFwqVB0xzRt%2BrHBVAMQNntMbdvrS%2Fs%3D.1556719391\x22},{\x22pageIndex\x22:6,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=92320-145151&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.fL3D6IxWFH%2FuGyIjxkgfOutKLX8cH1TgkDRBe0s3cBY%3D.1556719391\x22},{\x22pageIndex\x22:7,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=145152-161273&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.00XRUQpodCIU9olVmYkBUZsX6KUTMDdKk4UMt0Bo0Gs%3D.1556719391\x22},{\x22pageIndex\x22:8,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=161274-179784&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.oMoYNcycFGuzK%2FYmMxqo5vuAdbah0lJm11haeoyI4lA%3D.1556719391\x22},{\x22pageIndex\x22:9,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=179785-186326&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.lSm8zeicjB6o0MHJlOMDUh3Sf0PWL6U0rLR6UUQ1d1Q%3D.1556719391\x22},{\x22pageIndex\x22:10,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=186327-199915&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.hGgeSSStcMSPvw3QuyRY6CKaRvhYdSsS6e%2FHPcNLcIs%3D.1556719391\x22},{\x22pageIndex\x22:11,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=199916-&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.rZDs%2F8WujNgjOAmUrSTByW7z%2Btsp%2B4Lq89qNJUMuC4A%3D.1556719391\x22}],\x22png\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:2,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:3,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:4,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:5,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-1372&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.aduDeKjdh3iJcq517pxgcBLRrREmFJYW73B2e30GlQo%3D.1556719391\x22},{\x22pageIndex\x22:6,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=1373-5679&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.ivCl6PGI1jqi%2BBUyN3PQQKNTcU%2FtB8fIf5v5Vo%2BdonM%3D.1556719391\x22},{\x22pageIndex\x22:7,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=5680-26496&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.nAXyliLKgZyCuLvuuQatkAgI3I2IbG%2Bzv%2FGpvYKdQak%3D.1556719391\x22},{\x22pageIndex\x22:8,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=26497-28469&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XWw6TvFWzEhLnuQPFHWGpdyWjcImxWxQ9bpiK604iPU%3D.1556719391\x22},{\x22pageIndex\x22:9,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=28470-37345&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XfZYsgMOlarJyI0OtzSqaM%2FHwLAP3Vqoy0q9HmweIgQ%3D.1556719391\x22},{\x22pageIndex\x22:10,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=37346-37346&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XtI8UIaDagqmMqoVyQJpCelkx0RNNyDdEbTEupnzeow%3D.1556719391\x22},{\x22pageIndex\x22:11,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=37346-&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.ApiJK%2FZqK6TqjOzYS2G3K0grQonJvRQQmxFmJp2lXFw%3D.1556719391\x22}]}';
+        WkInfo.verify_user_info ='';
+        WkInfo.isUgcTest = Boolean('');
+        WkInfo.isRealName = +('0' + '0' + '0');
+        WkInfo.is_tianyancha_doc ='';
+        WkInfo.OrgInfo = {
+            'uid': ''
+        };
+        Data.set('WkInfo', WkInfo);
+        +'' &amp;&amp; Data.set('userFlowGroup', +'1');
+        Data.set('mitidialogtitle', '');
+        Data.set('mitidialogfontsize', '');
+        Data.set('isDialogCashier', '');
+        Data.set('isBGC', '');
+    })(window.__fisData);
+ 
+ 
+
+ 
+ 
+
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  首页  
+  分类    
+ 
+ 精品内容 
+  
+ 
+ 教育文库 
+ 文库视频 
+ 百度题库 
+ 精品文库 
+ 学术专区 
+ 会议中心 
+ 
+ 
+ 
+ 申请认证   
+ 
+ 
+ 机构合作 
+  
+ 
+ 机构认证 
+ 教育云平台 
+ 品牌推广 
+ 技术服务 
+ 代理招募 
+ 
+ 
+ 
+ 频道专区 
+  
+ 
+
+ 企业服务 
+ 环保家装 
+ 一级建造师 
+ 企业IT技术 
+ IT培训 
+ 全屋定制 
+ 注册消防师 
+ 瓷砖选材 
+ 企业应用软件 
+ 会议平台 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+会员中心 
+  
+ 
+ 
+VIP免费专区 
+ 
+VIP福利专区 
+ 兑换VIP 
+ 
+ 
+ 
+   个人中心 
+  
+ 
+ 云知识 
+ 悬赏任务 
+ 每日任务 
+ 专业认证 
+ 我的简历 
+ 
+ 
+ 
+ 
+ 
+    教育频道    
+ 
+ 小学 
+ 初中 
+ 高中 
+ 高考题库 
+ 
+ 
+ 
+    专业资料    
+ 
+ 人文社科 
+ IT/计算机 
+ 工程科技 
+ 
+ 
+ 
+    实用文档    
+ 
+ 求职/职场 
+ 总结/汇报 
+ 党团工作 
+ 
+      资格考试      IT培训          专业方案      环保家装    企业服务    企业IT技术     瓷砖选材    少儿英语    会议平台     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+  百度文库  
+  教育专区  
+  高等教育  
+  教育学  
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+    if (typeof PDC !== 'undefined') {
+        PDC.view_start();
+    }
+ 
+ 
+      
+ 
+
+  
+ 
+ 
+  
+ 
+ 加入教育VIP &gt; 
+ 送阅读VIP精品版 
+ 
+ 
+  
+   软 件 工 程 考 试 重 点 内 容  
+ 
+ 
+ 
+  
+ 遇见未知的璐
+ 
+ |  2018-06-30 
+ 
+ | 
+    4.5分  (高于 95.47 %的文档)  |   962 |   36 
+  | 
+  
+ 举报 
+ 
+           马上扫一扫 手机打开 随时查看     手机打开    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 专业文档 
+ 
+  
+  
+ 
+ 
+  
+专业文档是百度文库认证用户/机构上传的专业性文档，文库VIP用户或购买专业文档下载特权礼包的其他会员用户可用专业文档下载特权免费下载专业文档。只要带有以下“专业文档”标识的文档便是该类文档。 了解文档类型 
+ 
+ 
+ 
+  
+ VIP免费文档 
+ 
+  
+  
+ 
+ 
+  
+VIP免费文档是特定的一类共享文档，会员用户可以免费随意获取，非会员用户需要消耗下载券/积分获取。只要带有以下“VIP免费文档”标识的文档便是该类文档。 了解文档类型 
+ 
+ 
+ 
+  
+ VIP尊享8折文档 
+ 
+  
+  
+ 
+ 
+  
+VIP专享8折文档是特定的一类付费文档，会员用户可以通过设定价的8折获取，非会员用户需要原价获取。只要带有以下“VIP专享8折优惠”标识的文档便是该类文档。 了解文档类型 
+ 
+ 
+ 
+  
+ 付费文档 
+ 
+  
+  
+ 
+ 
+  
+付费文档是百度文库认证用户/机构上传的专业性文档，需要文库用户支付人民币获取，具体价格由上传人自由设定。只要带有以下“付费文档”标识的文档便是该类文档。 了解文档类型 
+ 
+ 
+ 
+  
+ 共享文档 
+ 
+  
+  
+ 
+ 
+  
+共享文档是百度文库用户免费上传的可与其他用户免费共享的文档，具体共享方式由上传人自由设定。只要带有以下“共享文档”标识的文档便是该类文档。 了解文档类型 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+
+       一、基础知识点：   
+  1  ．软件工程的基本原理。  （  p7  ）   
+  软件工程就是为了经济地获得可靠的且能在实际机器上有效地运行的软件，  而建立和使用完善的工程原理。   
+  软件工程的基本原理有  7  条：   
+  （  1  ）用分阶段的生命周期计划严格管理     （  2  ）坚持进行阶段评审     （  3  ）实行严格的产品控制     （  4  ）采用现代程序设计技术     （  5  ）结果应能清楚地审查     （  6  ）开发小组的人员应该少而精   
+  （  7  ）承认不断改进软件工程实践的必要性   
+  2  ．软件生命周期包括几个时期，各时期的主要任务及阶段划分。  （  p11  ）     软件定义时期：确定软件开发工程必须完成的总目标；确定工程的可行性；  导出实现工程目标应该采用的策略及系统必须完成的功能；  估计完成该项工程需  要的资料和成本，并且制定工程进度表；又划分成三个阶段，即问题定义、可行  性研究和需求分析。   
+  软件开发时期：具体设计和实现在前一个时期定义的软件  ,  由四个阶段组成：  总体设计、详细设计、编码和单元测试、综合测试  (  或由三个阶段组成：软件设  计、编码、软件测试  )    
+  软件维护时期：主要任务是使软件持久地满足用户的需要。通常对维护时期  不再进一步划分阶段。     3  ．需求分析的任务。  （  p56  ）   
+  答  :(1)  确定对系统的综合要求  .  主要包括  : 
+  1)  功能需求     2)  性能需求   
+  3)  可靠性和可用性需求     4)  出错处理需求     5)  接口需求     6)  约束   
+       
+ 
+      
+  
+      (function() {        var impMonitorUrls = [];        var clickMonitorUrls = [];        function visitUrl(url) {            var img = new Image();            img.src = url;            return img;        }        function visitAllUrls(urls) {            for (var i = 0; i &lt; urls.length; i++) {                visitUrl(urls[i]);            }        }        function addEventListener(node, event, func, useCapture) {            node = node || document;            useCapture = useCapture || false;            if (node.addEventListener) {                node.addEventListener(event, func, useCapture);            } else {                node.attachEvent('on' + event, func);            }        }        function init() {            var imgLink = document.getElementById('img_link');            if (imgLink) {                addEventListener(imgLink, 'click', function() {                            visitAllUrls(clickMonitorUrls);                        }, false);            }        }        function req_imp12() {            visitUrl("https://eduad.baidu.com/impression/wenku_post_json?p=Q9aCIy3idN_OfjKMCHdS0sb57_WL-Fv3V3TZ_AAmld_3z4lZImT_Y2LD-ZP6nEVchUALz-LE3KkjYaS7nWy19zvWfTvZqLSiwJfELSKErM0rZkmG2htMrKif0VP8Jz7qF0hvO0PPQCNZCs2pY2h7VBzexC_bYjo97kN5Wsg_4VznIozk_JpszB2Nai8zCl2zIPtNhbg8GId5JtuC7hYZqggmVJj5g_H-mG6y1xh1hAlhXFG1CmYVhmaW-_Amm-KBdkrxCVPO6Ln6gBW1VRkw6CHhZlOFZcpmCjHKrIbtwEvDCTNHTQ1JLUQ3VWQJqXkesmS7ZMFf6VUOYVCw2Lw_phg08heYL_j6u-TD2r8hmxjv3YMUeWF2sdFST39_wUOj89K0dC5J_6Oix_MAyNbD5kiAoaQKcWD_sfEguqwfx0tiiKUgDgBu51cUx5g4BofccXt5kZwPTHxSylqDXhQ1YGIIZTooAI_Fz_hqqmCSNPI=&amp;price=0");            visitAllUrls(impMonitorUrls);            init();        }        if (window.attachEvent) {            window.attachEvent('onload', req_imp12);        }        else if (window.addEventListener) {           window.addEventListener('load', req_imp12, false);        }    }) ();      .product {        position: relative;    }    .adv-logo {        position: absolute;        bottom: 1px;        z-index: 100;    }    .ad-label {        left: 1px;    }    .dsp-logo {        right: 1px;    }                         
+  
+  
+ 
+
+ 
+      
+ 
+
+       7)  逆向需求   
+  8)  将来可能提出的要求     (2)  分析系统的数据要求     (3)  导出系统的逻辑模型     (4)  修正系统开发计划   
+  4  ．改进软件设计的启发式规则（  p100  ）     （  1  ）改进软件结构提高模块独立性     （  2  ）模块规模应该适中   
+  （  3  ）深度、宽度、扇出和扇入都应适当；     （  4  ）模块的作用域应该在控制域之内。     （  5  ）力争降低模块接口的复杂程序     （  6  ）设计单入口单出口的模块     （  7  ）模块功能应该可以预测     5  ．软件维护的类型（  p189-190  ）   
+  (1)  改正性维护   
+  诊断和改正错误的过程称为改正性维护。     (2)  适应性维护   
+  为使软件系统适应不断变化的运行环境而修改软件的过程。        (3)  完善性维护   
+  在软件的使用过程中，用户往往提出增加新性能或修改已有功能等要求。为  了满足这些要求需要进行完善性维护。   
+     (4)  预防性维护   
+              为提高软件未来的可维护性、可靠性等，为以后进一步改进软件打下良  好基础而修改软件的过程。   
+  6  ．决定软件可维护性的主要因素。  （  p194  ）   
+  软件可维护性是指维护人员理解、改正、改动或改进这个软件的难易程度。     决定软件可维护性的因素主要有下述  5  个：        （  1  ）可理解性     （  2  ）可测试性     （  3  ）可修改性   
+       
+ 
+      
+  
+                                                                                                省油宝 - 智能全自动直通车利器                                                                                  广告                               麦苗省油宝是智能全自动开车软件, 针对直通车难学, 操作繁琐, 点击费用高而专门研发.                               查看详情 &gt;                                                                                                                                                                                                     如何开家网店「八项热门技能学习」                                                                                                                                                                              广告                                           如何开家网店_IT时代来临,人才缺口大!华信智原专业教学团队,学习更扎实,                                           查看详情 &gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+  
+  
+ 
+
+ 
+      
+ 
+
+       （  4  ）可移植性     （  5  ）可重用性   
+  7  ．面向对象设计的准则和启发式规则。  （  p260-p261  ）     设计准则：      
+  （  1  ）模块化                                      （  2  ）抽象     （  3  ）信息隐蔽                                （  4  ）弱耦合     （  5  ）强内聚                                      （  6  ）可重用。     启发规则：      
+  （  1  ）设计结果应该清晰易懂     （  2  ）一般  -  特殊结构的深度应适当     （  3  ）设计简单的类     （  4  ）使用简单的协议     （  5  ）使用简单的服务     （  6  ）把设计变动减至最小   
+  二、关键知识点：   
+  1  ．软件是计算机系统中与硬件相互依存的另一部分，它是包括程序、数据  及相关文档的集合。  （  p4  ）   
+  2  ．软件工程方法学包括  3  个要素：方法、工具和过程。  （  p9  ）   
+  目前使用最广泛的软件工程方法学，分别是传统方法学和面向对象方法学。     3  ．传统软件工程方法学的软件过程，基本上可以用瀑布模型来描述。  （  p15  ）     3  ．数据流图和数据字典共同构成系统的逻辑模型。只有数据流图和对数据流图  中每个元素的精确定义放在一起，才能共同构成系统的规格说明。  （  p47  ）   
+  4  ．  E-R  图主要包括三个元素，即实体、联系和属性。  （  p64  ）   
+  5  ．总体设计又称为概要设计或初步设计，其主要任务是建立软件的总体结  构。  （  p92  ）   
+  6  ．模块的独立性是软件模块化设计的关键之一，一般用内聚和耦合两个定  性标准来度量模块的独立性。  (p97) 
+  7  ．测试过程包括  5  个步骤，即     模块测试、子系统测试、系统测试、验收测  试、平行运行。  (p151) 
+       
+ 
+      
+  
+  下载文档到电脑，使用更方便     2下载券              下载    VIP免券下载             享专业文档下载特权    赠共享文档下载特权    赠百度阅读VIP精品版    
+ 
+ 
+ 
+ 还剩8页未读， 
+ 继续阅读 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 恭喜您获得价值300元的托福雅思剑桥测评课 
+ 
+ 立即免费领取 
+ 
+  
+  
+                                                                                                                                                                试用网千万精准人群_试用发布0服务费,免费入驻_                                                                                                                                                                              广告                                           试用网大数据计算平台通过人群标签,IP精准定位,周不过7,月不过30,                                           查看详情 &gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  淘客达人lins——2019新手淘客步骤——手把手视频教程                                                                                  广告                               淘客菜鸟新手入门,手把手视频教程,从0基础讲起!专业的淘客教学 + 整个淘客运作流程                               查看详情 &gt;                                                                            
+
+ 
+      
+ 
+
+          8  ．用面向对象方法开发软件，需要建立  3  种模型：对象模型、动态模型、功  能模型。在任何情况下，  对象模型  始终是最重要，最基本、最核心的。  （  p216  ）   
+  9  ．类与类之间通常有关联、泛化（继承）  、依赖和细化等  4  种关系。  （  p218  ）     10  ．  各个类的  状态图  通过  共享事件  合并起来，  构成了系统的动态模型。  （  p224  ）     11  ．大型系统的对象模型通常由  5  个层次组成：主题层、类与对象层、结构  层、属性层和服务层。  (p232) 
+  12  ．软件重用可分为  3  个层次：知识重用、方法和标准的重用和软件成分的  重用。  (p263) 
+  13  ．在制订和管理进度时，应该同时使用  Gantt  图和工程网络这两种工具，  使它们互相补充取长补短。  （  p319  ）   
+  14  ．软件项目组的组织方式中比较典型的有：     民主制程序员组、主程序员  组和现代程序员组。  (p320) 
+  15  ．  CMM  把软件过程从无序到有序的进化过程分成  5  个等级从低到高：初  始级，可重复级，已定义级，已管理级，优化级。  (P332) 
+  三、章节综合知识   
+  1  ．软件的特点（  p3  ）  。      
+     (1).  软件是无形的，缺乏     “可见性”              (2).  软件不存在磨损和消耗        (3).  软件开发成本高        (4).  没有明显的制作过程     2  ．软件生命周期模型（  p32  ）   
+  (1)   瀑布模型                    (2)   快速原型模型                    (3)   增量模型                    (4)   螺旋模型                    (5)  喷泉模型                                   (6)RUP  过程模型     (7)   敏捷过程模型                       (8)  微软过程模型     3  ．可行性研究（  p36  ）     (1).  技术可行性      
+        (2)  经济可行性              (3).  操作可行性                        (1).  法律可行性   
+  研究开发所需要的成本和资源是属于可行性研究中的  经济可行性  研究的一方面     4  ．编码时应该遵循的规则中，不正确的是  (  p147-149  )                     (1).  所有的输入数据都进行检验                     
+       
+ 
+      
+                                                                                                                                                                免费干货,怎么样进行网络推广火炎老师100集网络推广课程                                                                                                                                                                              广告                                           怎么样进行网络推广商梦学院创办人,火炎,推出风靡全球的 IFWP 互联网自由财富计划.                                           查看详情 &gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 做淘宝怎么样,上「天猫」淘宝商城,限时特价,买了就值!                                                                                                                                                                              广告                                           做淘宝怎么样「天猫」淘宝商城,品牌旗舰,正品特惠,限时特价中,让您省钱也省心!                                           查看详情 &gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+ 
+      
+ 
+
+ 
+ 
+ 
+      
+  
+ 
+
+ 
+      
+ 
+
+ 
+ 
+ 
+      
+ 
+
+ 
+      
+ 
+
+ 
+ 
+ 
+      
+ 
+
+ 
+      
+ 
+
+ 
+ 
+ 
+      
+ 
+
+ 
+      
+ 
+
+ 
+ 
+ 
+      
+ 
+
+ 
+      
+ 
+
+ 
+ 
+ 
+      
+ 
+
+ 
+      
+ 
+
+ 
+ 
+ 
+      
+ 
+
+ 
+
+
+
+  
+
+
+
+ 1234567890ABCDEFGHIJKLMNabcdefghijklmn!@#$%^&amp;&amp;*()_+.一三五七九贰肆陆扒拾，。青玉案元夕东风夜放花千树更吹落星如雨宝马雕车香满路凤箫声动玉壶光转一夜鱼龙舞蛾儿雪柳黄金缕笑语盈盈暗香去众里寻他千百度暮然回首那人却在灯火阑珊处  
+  
+ 
+ 
+  阅读已结束，下载本文需要     2下载券              下载    VIP免券下载             享专业文档下载特权    赠共享文档下载特权    赠百度阅读VIP精品版    
+ 
+  
+ 
+  
+ 恭喜您获得价值300元的托福雅思剑桥测评课 
+ 
+ 立即免费领取 
+  
+ 
+ 
+ 
+ 下一篇 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 把文档贴到Blog、BBS或个人站等： 
+ 
+ 
+ 复制 
+  
+ 预览 
+ 
+ 
+ 
+ 普通尺寸(450*500pix) 
+ 
+ 较大尺寸(630*500pix) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+  
+ 
+
+ 
+ 你可能喜欢 
+ 
+ 
+ 
+                 
+                    
+                    
+                        
+                    
+                     
+                        软件工程期末试题
+                     
+                
+                    
+                    
+                     
+                        软件工程复习重点
+                     
+                
+                    
+                    
+                     
+                        JAVA软件工程师简...
+                     
+                
+                    
+                    
+                     
+                        软件工程题
+                     
+                
+                    
+                    
+                     
+                        工程部
+                     
+                
+                    
+                    
+                     
+                        总工程师
+                     
+                
+                    
+                    
+                     
+                        组织工程
+                     
+                
+                 
+ 
+ 
+                
+                    
+                    
+                        
+                    
+                    
+                     
+                         
+                             
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                河南电大1260软件工程期末试题带答案
+                                             
+                                         
+                                         
+                                            
+                                                 3.5  分
+                                            
+
+                                            
+                                                 481人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                12-13软件工程  安徽大学期末试题
+                                             
+                                         
+                                         
+                                            
+                                                 4.5  分
+                                            
+
+                                            
+                                                 1121人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                电大期末考试试题带答案1260软件工程
+                                             
+                                         
+                                         
+                                            
+                                                 4.4  分
+                                            
+
+                                            
+                                                 3061人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程导论期末考试试题
+                                             
+                                         
+                                         
+                                            
+                                                 4.5  分
+                                            
+
+                                            
+                                                 2549人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                大连海事大学 软件工程 期末试题库
+                                             
+                                         
+                                         
+                                            
+                                                 4.5  分
+                                            
+
+                                            
+                                                 1402人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程期末试题与答案
+                                             
+                                         
+                                         
+                                            
+                                                 4.4  分
+                                            
+
+                                            
+                                                 1467人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                             
+                         
+                         
+                             
+                                 
+                                    更多与“ 软件工程期末试题 ”相关的内容&gt;&gt;
+                                 
+                             
+                         
+                     
+                
+                    
+                    
+                    
+                     
+                         
+                             
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程重点知识复习资料及试卷
+                                             
+                                         
+                                         
+                                            
+                                                 3.5  分
+                                            
+
+                                            
+                                                 328人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程复习重点
+                                             
+                                         
+                                         
+                                            
+                                                 0.9  分
+                                            
+
+                                            
+                                                 21人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                川大软件工程期末复习重点
+                                             
+                                         
+                                         
+                                            
+                                                 2.5  分
+                                            
+
+                                            
+                                                 250人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程导论复习重点一
+                                             
+                                         
+                                         
+                                            
+                                                 1.2  分
+                                            
+
+                                            
+                                                 50人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程复习重点
+                                             
+                                         
+                                         
+                                            
+                                                 4.4  分
+                                            
+
+                                            
+                                                 32人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程导论期末复习重点
+                                             
+                                         
+                                         
+                                            
+                                                 4.5  分
+                                            
+
+                                            
+                                                 1914人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                             
+                         
+                         
+                             
+                                 
+                                    更多与“ 软件工程复习重点 ”相关的内容&gt;&gt;
+                                 
+                             
+                         
+                     
+                
+                    
+                    
+                    
+                     
+                         
+                             
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                JAVA软件工程师个人简历范文
+                                             
+                                         
+                                         
+                                            
+                                                 2.1  分
+                                            
+
+                                            
+                                                 21211人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                JAVA应届软件工程师简历模板
+                                             
+                                         
+                                         
+                                            
+                                                 2.1  分
+                                            
+
+                                            
+                                                 4468人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                JAVA软件工程师标准简历
+                                             
+                                         
+                                         
+                                            
+                                                 2.1  分
+                                            
+
+                                            
+                                                 3189人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                简历+北京交通大学+JAVA软件工程师+刘天平
+                                             
+                                         
+                                         
+                                            
+                                                 4.4  分
+                                            
+
+                                            
+                                                 2591人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                JAVA软件工程师的简历模板
+                                             
+                                         
+                                         
+                                            
+                                                 4.4  分
+                                            
+
+                                            
+                                                 10460人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                JAVA软件工程师求职简历
+                                             
+                                         
+                                         
+                                            
+                                                 3.2  分
+                                            
+
+                                            
+                                                 212人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                             
+                         
+                         
+                             
+                                 
+                                    更多与“ JAVA软件工程师简历 ”相关的内容&gt;&gt;
+                                 
+                             
+                         
+                     
+                
+                    
+                    
+                    
+                     
+                         
+                             
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程题
+                                             
+                                         
+                                         
+                                            
+                                                 1.1  分
+                                            
+
+                                            
+                                                 36人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程题库
+                                             
+                                         
+                                         
+                                            
+                                                 3.5  分
+                                            
+
+                                            
+                                                 489人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程题库
+                                             
+                                         
+                                         
+                                            
+                                                 3.4  分
+                                            
+
+                                            
+                                                 136人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程题(含答案)
+                                             
+                                         
+                                         
+                                            
+                                                 3.5  分
+                                            
+
+                                            
+                                                 431人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                华为笔试题含答案 [软件工程题]
+                                             
+                                         
+                                         
+                                            
+                                                 4.3  分
+                                            
+
+                                            
+                                                 316人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                软件工程题A
+                                             
+                                         
+                                         
+                                            
+                                                 0.9  分
+                                            
+
+                                            
+                                                 27人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                             
+                         
+                         
+                             
+                                 
+                                    更多与“ 软件工程题 ”相关的内容&gt;&gt;
+                                 
+                             
+                         
+                     
+                
+                    
+                    
+                    
+                     
+                         
+                             
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                工程技术部职责
+                                             
+                                         
+                                         
+                                            
+                                                 4.4  分
+                                            
+
+                                            
+                                                 5711人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                工程部工作标准考核得分及说明
+                                             
+                                         
+                                         
+                                            
+                                                 3.1  分
+                                            
+
+                                            
+                                                 143人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                工程部职责
+                                             
+                                         
+                                         
+                                            
+                                                 1.4  分
+                                            
+
+                                            
+                                                 112人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                工程部人员编制
+                                             
+                                         
+                                         
+                                            
+                                                 2.5  分
+                                            
+
+                                            
+                                                 298人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                工程部员工绩诳考评实施标准规程
+                                             
+                                         
+                                         
+                                            
+                                                 4.4  分
+                                            
+
+                                            
+                                                 145人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                工程部绩效考核表
+                                             
+                                         
+                                         
+                                            
+                                                 3.1  分
+                                            
+
+                                            
+                                                 439人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                             
+                         
+                         
+                             
+                                 
+                                    更多与“ 工程部 ”相关的内容&gt;&gt;
+                                 
+                             
+                         
+                     
+                
+                    
+                    
+                    
+                     
+                         
+                             
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                河南中煤矿业科技发展有限公司瓦斯消溶剂技术总工程师...
+                                             
+                                         
+                                         
+                                            
+                                                 3.3  分
+                                            
+
+                                            
+                                                 351人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                走近屏幕软打样访北京圣彩虹制版印刷技术有限公司总工...
+                                             
+                                         
+                                         
+                                            
+                                                 2.1  分
+                                            
+
+                                            
+                                                 243人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                SSB-JOB-SJ07区域公司室内设计总工程师
+                                             
+                                         
+                                         
+                                            
+                                                 2.1  分
+                                            
+
+                                            
+                                                 48人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                煤矿总工程师职责
+                                             
+                                         
+                                         
+                                            
+                                                 3.5  分
+                                            
+
+                                            
+                                                 149人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                项目总工程师安全岗位责任制5
+                                             
+                                         
+                                         
+                                            
+                                                 1.7  分
+                                            
+
+                                            
+                                                 96人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                公司总工程师安全岗位责任制3
+                                             
+                                         
+                                         
+                                            
+                                                 1.2  分
+                                            
+
+                                            
+                                                 52人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                             
+                         
+                         
+                             
+                                 
+                                    更多与“ 总工程师 ”相关的内容&gt;&gt;
+                                 
+                             
+                         
+                     
+                
+                    
+                    
+                    
+                     
+                         
+                             
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                组织工程的研究概况
+                                             
+                                         
+                                         
+                                            
+                                                 3.4  分
+                                            
+
+                                            
+                                                 285人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                组织工程学
+                                             
+                                         
+                                         
+                                            
+                                                 1.4  分
+                                            
+
+                                            
+                                                 223人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                组织工程心脏瓣膜研究进展(综述)
+                                             
+                                         
+                                         
+                                            
+                                                 2.1  分
+                                            
+
+                                            
+                                                 249人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                组织工程
+                                             
+                                         
+                                         
+                                            
+                                                 2.2  分
+                                            
+
+                                            
+                                                 28人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                骨组织工程
+                                             
+                                         
+                                         
+                                            
+                                                 2.2  分
+                                            
+
+                                            
+                                                 1006人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                                
+                            
+                                
+                                
+                                    
+                                
+                                 
+                                     
+                                         
+                                            
+                                                 
+                                            
+                                         
+                                          
+                                     
+                                     
+                                         
+                                             
+                                                组织工程支架材料20110509
+                                             
+                                         
+                                         
+                                            
+                                                 4.5  分
+                                            
+
+                                            
+                                                 1372人阅读 
+                                            
+                                         
+                                     
+                                 
+                            
+                             
+                         
+                         
+                             
+                                 
+                                    更多与“ 组织工程 ”相关的内容&gt;&gt;
+                                 
+                             
+                         
+                     
+                
+             
+ 
+ 
+ 
+ 
+您的评论 
+  
+  
+  
+  
+  
+ 
+  
+ *感谢支持，给文档评个星吧！ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 240 
+ 
+ 发布评论 
+ 
+ 
+ 
+ 换一换 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+用户评价  
+ 
+ 评论加载中... 
+ 
+    
+         暂无评论 
+    
+ 
+ 
+ 
+        
+ 
+    &lt;div class="ct-item-wrap"&gt;
+        &lt;div class="clearfix ct-con-wrap"&gt;
+            &lt;div class="ct-extra-into"&gt;
+                &lt;p&gt;&lt;%= create_time %&gt;&lt;/p&gt;
+                &lt;p&gt;
+                    &lt;% if ( "" == uname ) { %&gt;
+                        &lt;a href="javascript:void(0);" class="delete-btn"&gt;删除&lt;/a&gt;
+                    &lt;% } %&gt;
+                    &lt;a href="javascript:void(0);" class="reply-btn"&gt;回复 (&lt;span class="ry-num"&gt;0&lt;/span&gt;)&lt;/a&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+
+            &lt;div class="ct-con"&gt;
+                &lt;div class="avatar-wrap"&gt;
+                    &lt;div&gt;
+                        &lt;a href="&lt;%= url %&gt;" target="_blank"&gt;&lt;img class="avatar" src="&lt;%= avatar %&gt;" /&gt;&lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class="main-con"&gt;
+                    &lt;p&gt;
+                        &lt;span class="ct-star" &gt;
+                            &lt;% var onNum = Math.ceil( star ); %&gt;
+                            &lt;% var offNum = 5 - onNum; %&gt;
+                            &lt;% for ( var i = 0; i &lt; onNum; i++ ) { %&gt;
+                                &lt;b class="ic-star-score star-score-on"&gt;&lt;/b&gt;
+                            &lt;% } %&gt;
+                            &lt;% for ( var i = 0; i &lt; offNum; i++ ) { %&gt;
+                                &lt;b class="ic-star-score star-score-off"&gt;&lt;/b&gt;
+                            &lt;% } %&gt;
+                        &lt;/span&gt;
+                        &lt;a class="uname" href="&lt;%= url %&gt;" target="_blank"&gt;&lt;%= tname %&gt;&lt;/a&gt;
+
+                        &lt;% if ( oInfo.org_name ) { %&gt;
+                            &lt;span class="bg-comment ic-over"&gt;&lt;/span&gt;
+                        &lt;% } else if ( title ) { %&gt;
+                            &lt;span class="bg-comment ic-ver"&gt;&lt;/span&gt;
+                            &lt;span class="title"&gt;&lt;%= title %&gt;&lt;/span&gt;
+                        &lt;% } %&gt;
+                    &lt;/p&gt;
+                    &lt;div class="ct-atc"&gt;
+                        &lt;p&gt;&lt;%- content %&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class="reply-wrap"&gt;
+            &lt;div class="bg-comment ic-arrow"&gt;&lt;/div&gt;
+            &lt;div class="post-reply clearfix"&gt;
+                &lt;a class="add-new-btn post-reply-btn" href="javascript:void(0);"&gt;回复&lt;/a&gt;
+                &lt;input type="text" class="post-reply-ipt" /&gt;
+            &lt;/div&gt;
+
+            &lt;div class="info-tip clearfix"&gt;
+                &lt;p class="error-tip"&gt;&lt;/p&gt;
+                &lt;p class="reply-num"&gt;共&lt;%= reply_count %&gt;条回复&lt;/p&gt;
+            &lt;/div&gt;
+
+            &lt;ul class="reply-list"&gt;
+
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+ 
+ 
+    &lt;% if ( commentList.length &gt; 0 ) { %&gt;
+        &lt;% _.each( commentList, function( item ) { %&gt;
+            &lt;li class="ct-item" data-reply-id="&lt;%= item.reply_id %&gt;" id="item-&lt;%= item.reply_id %&gt;"&gt;
+                &lt;div class="ct-item-wrap"&gt;
+                    &lt;div class="clearfix ct-con-wrap"&gt;
+                        &lt;div class="ct-extra-into"&gt;
+                            &lt;p&gt;&lt;%= item.create_time %&gt;&lt;/p&gt;
+                            &lt;p&gt;
+                                &lt;% if ( "" == item.uname || item.is_uid_admin ) { %&gt;
+                                    &lt;a href="javascript:void(0);" class="delete-btn"&gt;删除&lt;/a&gt;
+                                &lt;% } %&gt;
+                                &lt;a href="javascript:void(0);" class="reply-btn"&gt;
+                                    回复 (&lt;span class="ry-num"&gt;&lt;%= item.reply_count %&gt;&lt;/span&gt;)
+                                &lt;/a&gt;
+                            &lt;/p&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="ct-con"&gt;
+                            &lt;div class="avatar-wrap"&gt;
+                                &lt;div&gt;
+                                    &lt;a href="&lt;%= item.url %&gt;" target="_blank"&gt;
+                                        &lt;img class="avatar" src="&lt;%= item.avatar %&gt;" /&gt;
+                                    &lt;/a&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class="main-con"&gt;
+                                &lt;p&gt;
+                                    &lt;span class="ct-star" &gt;
+                                        &lt;% var onNum = Math.ceil( item.star ); %&gt;
+                                        &lt;% var offNum = 5 - onNum; %&gt;
+                                        &lt;% for ( var i = 0; i &lt; onNum; i++ ) { %&gt;
+                                            &lt;b class="ic-star-score star-score-on"&gt;&lt;/b&gt;
+                                        &lt;% } %&gt;
+                                        &lt;% for ( var i = 0; i &lt; offNum; i++ ) { %&gt;
+                                            &lt;b class="ic-star-score star-score-off"&gt;&lt;/b&gt;
+                                        &lt;% } %&gt;
+                                    &lt;/span&gt;
+                                    &lt;a class="uname" href="&lt;%= item.url %&gt;" target="_blank"&gt;&lt;%= item.tname %&gt;&lt;/a&gt;
+
+                                    &lt;% if ( item.oInfo.org_name ) { %&gt;
+                                        &lt;span class="bg-comment ic-over"&gt;&lt;/span&gt;
+                                    &lt;% } else if ( item.title ) { %&gt;
+                                        &lt;span class="bg-comment ic-ver"&gt;&lt;/span&gt;
+                                        &lt;span class="title"&gt;&lt;%= item.title %&gt;&lt;/span&gt;
+                                    &lt;% } %&gt;
+                                &lt;/p&gt;
+                                &lt;div class="ct-atc"&gt;
+                                    &lt;p&gt;&lt;%- item.content %&gt;&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class="reply-wrap"&gt;
+                        &lt;div class="bg-comment ic-arrow"&gt;&lt;/div&gt;
+                        &lt;div class="post-reply clearfix"&gt;
+                            &lt;a class="add-new-btn post-reply-btn" href="javascript:void(0);"&gt;回复&lt;/a&gt;
+                            &lt;input type="text" class="post-reply-ipt" /&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="info-tip clearfix"&gt;
+                            &lt;p class="error-tip"&gt;&lt;/p&gt;
+                            &lt;p class="reply-num"&gt;共&lt;%= item.reply_count %&gt;条回复&lt;/p&gt;
+                        &lt;/div&gt;
+
+                        &lt;ul class="reply-list"&gt;
+
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/li&gt;
+        &lt;% } ); %&gt;
+    &lt;% } else { %&gt;
+        &lt;li class="no-comment"&gt;暂无评论&lt;/li&gt;
+    &lt;% } %&gt;
+ 
+ 
+    &lt;div class="ry-item-wrap"&gt;
+        &lt;p class="date"&gt;
+            &lt;%= create_time %&gt;&lt;br/&gt;
+            &lt;% if ( "" == uname ) { %&gt;
+                &lt;a href="javascript:void(0);" class="delete-btn delete-reply-btn"&gt;删除&lt;/a&gt;
+            &lt;% } %&gt;
+        &lt;/p&gt;
+
+        &lt;div class="reply-info"&gt;
+            &lt;p&gt;
+                &lt;a class="uname" href="&lt;%= url %&gt;" target="_blank"&gt;&lt;%= tname %&gt;&lt;/a&gt;
+
+                &lt;% if ( oInfo.org_name ) { %&gt;
+                    &lt;span class="bg-comment ic-over"&gt;&lt;/span&gt;
+                &lt;% } else if ( title ) { %&gt;
+                    &lt;span class="bg-comment ic-ver"&gt;&lt;/span&gt;
+                    &lt;span class="title"&gt;&lt;%= title %&gt;&lt;/span&gt;
+                &lt;% } %&gt;
+            &lt;/p&gt;
+            &lt;div class="ct-atc"&gt;
+                &lt;p&gt;&lt;%- content %&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+ 
+ 
+    &lt;% _.each( replyList, function( item, key ) { %&gt;
+        &lt;li class="ry-item clearfix &lt;% if ( key == replyList.length - 1 ) { %&gt; last &lt;%}%&gt;"
+            data-reply-id="&lt;%= item.reply_id %&gt;" id="item-&lt;%= item.reply_id %&gt;"
+        &gt;
+            &lt;div class="ry-item-wrap"&gt;
+                &lt;p class="date"&gt;
+                    &lt;%= item.create_time %&gt;&lt;br/&gt;
+                    &lt;% if ( "" == item.uname ) { %&gt;
+                        &lt;a href="javascript:void(0);" class="delete-btn delete-reply-btn"&gt;删除&lt;/a&gt;
+                    &lt;% } %&gt;
+                &lt;/p&gt;
+
+                &lt;div class="reply-info"&gt;
+                    &lt;p&gt;
+                        &lt;a class="uname" href="&lt;%= item.url %&gt;" target="_blank"&gt;&lt;%= item.tname %&gt;&lt;/a&gt;
+                        &lt;% if ( item.oInfo.org_name ) { %&gt;
+                            &lt;span class="bg-comment ic-over"&gt;&lt;/span&gt;
+                        &lt;% } else if ( item.title ) { %&gt;
+                            &lt;span class="bg-comment ic-ver"&gt;&lt;/span&gt;
+                            &lt;span class="title"&gt;&lt;%= item.title %&gt;&lt;/span&gt;
+                        &lt;% } %&gt;
+                    &lt;/p&gt;
+                    &lt;div class="ct-atc"&gt;
+                        &lt;p&gt;&lt;%- item.content %&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+    &lt;% } ); %&gt;
+ 
+ 
+          (window.cproArray = window.cproArray || []).push({ id: "u2280094" }); (window['cproStyleApi'] = window['cproStyleApi'] || {})['u2280094'] = {at: '3', rsi0: '966', rsi1: '198', pat: '6', tn: 'baiduCustNativeAD', rss1: '#FFFFFF', conBW: '1', adp: '1', ptt: '0', titFF: '%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91', titFS: '14', rss2: '#000000', titSU: '0', ptbg: '90', piw: '0', pih: '0', ptp: '0' };       
+  
+ 
+ 
+ 
+      
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+  上传文档  
+ 
+ 本地上传 
+ 创建文档   
+ 
+ 
+ 
+     
+  
+   
+  
+   
+      
+ 
+
+ 
+ 
+ 
+ 1 
+ /3 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+相关文档推荐 
+ 
+ 
+ 
+ 
+ 
+  .VXJSWk {padding: 0;}.lGQhEf {display: block;position: relative; text-decoration: none;}.lGQhEf:hover .mgZORk{text-decoration: underline;}.fUjysD {display: flex;flex-wrap: wrap;color: #333;}.gl-display {display: flex;}.bLhEJQ {width: 15px;height: 15px; vertical-align: middle;align-items: center; display: inline-block;background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABoUlEQVQ4y5XUv0sXQBjH8dd9MyFBKkgShwoiAmkIbnMoCIoim0PCqaCt1ptqCm4N+hciiFIILFqidk+npsAMQiMoCBL5pnENnfIl8is+291z934+z4+7EHMtGMKmvdsA1gYwgil86XO4W1L4vLWIuY7hAEbxeAArmC8pdPuFjLlexgQWSwqzbW8VKx10cHgXwEu8wg3MxFxfN9d+dDq7JR1zXcQVnCgpnMRRXIq53i4p/NBU9AO8w3hJIZQUPkFJ4SveNFX6QmKu93AOF2Oux/9xX8Dz3hbtZPdxC9+wHHM9g+XWiKWSwsOY63Cvkn09Ct7GXK+2SNMlhfeYwSOM4yNOt+MHe5WsN8ALnMc07mA15jqBByhYKCmc7VG7uQ0pKXyPuU7iGsZKCqsNGlFbe5+WFH7/L+/ewk7hwxagwRfwBIMlhes7Fa8XMotTMdfRpmKwTeRImw19ITHXQyWFZ5hrdZhHFxs4UlLY2A1SEZr8SdzEAu6WFI6VFGqf+2uoIea65O9Yr2C9pLD9JcRcA4Z3AFSMYS60t/ETv+zdBjH0B+CnmSRP5TRwAAAAAElFTkSuQmCC') center no-repeat;background-size:cover;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABoUlEQVQ4y5XUv0sXQBjH8dd9MyFBKkgShwoiAmkIbnMoCIoim0PCqaCt1ptqCm4N+hciiFIILFqidk+npsAMQiMoCBL5pnENnfIl8is+291z934+z4+7EHMtGMKmvdsA1gYwgil86XO4W1L4vLWIuY7hAEbxeAArmC8pdPuFjLlexgQWSwqzbW8VKx10cHgXwEu8wg3MxFxfN9d+dDq7JR1zXcQVnCgpnMRRXIq53i4p/NBU9AO8w3hJIZQUPkFJ4SveNFX6QmKu93AOF2Oux/9xX8Dz3hbtZPdxC9+wHHM9g+XWiKWSwsOY63Cvkn09Ct7GXK+2SNMlhfeYwSOM4yNOt+MHe5WsN8ALnMc07mA15jqBByhYKCmc7VG7uQ0pKXyPuU7iGsZKCqsNGlFbe5+WFH7/L+/ewk7hwxagwRfwBIMlhes7Fa8XMotTMdfRpmKwTeRImw19ITHXQyWFZ5hrdZhHFxs4UlLY2A1SEZr8SdzEAu6WFI6VFGqf+2uoIea65O9Yr2C9pLD9JcRcA4Z3AFSMYS60t/ETv+zdBjH0B+CnmSRP5TRwAAAAAElFTkSuQmCC',sizingMethod='scale');/*兼容ie8以下*/-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABoUlEQVQ4y5XUv0sXQBjH8dd9MyFBKkgShwoiAmkIbnMoCIoim0PCqaCt1ptqCm4N+hciiFIILFqidk+npsAMQiMoCBL5pnENnfIl8is+291z934+z4+7EHMtGMKmvdsA1gYwgil86XO4W1L4vLWIuY7hAEbxeAArmC8pdPuFjLlexgQWSwqzbW8VKx10cHgXwEu8wg3MxFxfN9d+dDq7JR1zXcQVnCgpnMRRXIq53i4p/NBU9AO8w3hJIZQUPkFJ4SveNFX6QmKu93AOF2Oux/9xX8Dz3hbtZPdxC9+wHHM9g+XWiKWSwsOY63Cvkn09Ct7GXK+2SNMlhfeYwSOM4yNOt+MHe5WsN8ALnMc07mA15jqBByhYKCmc7VG7uQ0pKXyPuU7iGsZKCqsNGlFbe5+WFH7/L+/ewk7hwxagwRfwBIMlhes7Fa8XMotTMdfRpmKwTeRImw19ITHXQyWFZ5hrdZhHFxs4UlLY2A1SEZr8SdzEAu6WFI6VFGqf+2uoIea65O9Yr2C9pLD9JcRcA4Z3AFSMYS60t/ETv+zdBjH0B+CnmSRP5TRwAAAAAElFTkSuQmCC',sizingMethod='scale')";}.mgZORk {margin-left: 8px; display: inline-block;}.LnXsit {flex: 1;flex-direction: column;overflow: hidden;word-break: break-word;justify-content: space-around;}.LnXsit h1 {margin: 0;font-size: 14px; color: #333;}.LnXsit h1 em {color: #ff9c00;}.LnXsit p { margin-left:23px;font-size: 12px; height:22px; line-height:18px; vertical-align:top;color: #999;}.LnXsit .zHALDw{overflow: hidden;text-overflow:ellipsis;-o-text-overflow:ellipsis;-webkit-text-overflow:ellipsis;-moz-text-overflow:ellipsis;word-wrap: break-word;white-space: nowrap;display: inline-block;max-width: 130px;vertical-align: middle;}.PJjqBG {margin-left:15px;color: #666;display: inline-block;vertical-align: middle;}         126a打印机硒鼓型号-超..    3c.tmall.com  广告       
+ 
+ 
+ 
+  
+ 
+软件工程考试内容
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+3页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+8软件工程考试重点
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+3页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+2015江苏省计算机与软件...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+3页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+2010台湾省计算机与软件...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+3页 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+软件工程期末考试重点
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+6页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程考试重点(重点)
+ 
+ 
+ 
+ 
+暂无评价 
+ 
+8页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+《软件工程》考试内容考...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+10页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+《软件工程》考试内容及...
+ 
+ 
+ 
+ 
+暂无评价 
+ 
+2页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程期末考试复习重...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+2页 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+软件工程考试内容
+ 
+ 
+ 
+ 
+暂无评价 
+ 
+3页 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+      
+ 
+
+   
+      
+ 
+
+ 
+ 喜欢此文档的还喜欢 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+软考基础知识专题七：软...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+16页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程考试重点(2份)果...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+21页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+大学软件工程考试重点
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+6页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+C#考试重点(软件工程专业...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+6页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程考试重点 (1)
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+10页 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+软件工程期末考试复习重...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+3页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程考试内容
+ 
+ 
+ 
+ 
+暂无评价 
+ 
+3页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程考试试题及参考...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+6页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程考试
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+24页 
+  
+ 
+ 
+ 
+ 
+  
+ 
+软件工程期末复习提纲考...
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+6页 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+
+  
+     猜你喜欢           (window.cproArray = window.cproArray || []).push({ id: "u3075407" });      
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ ©2019 Baidu   | 由 百度云 提供计算服务  |  使用百度前必读  |  文库协议  |  广告服务  |  企业文库  |  网站地图 
+ 
+ 
+
+ 
+ 
+
+ 
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd8bfb560f8d03bbefc9bdecafc4a4bf6' type='text/javascript'%3E%3C/script%3E"));
+	   
+  
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+
+
+  
+  
+ var pageId='wenku-view'; 
+
+
+
+
+
+
+
+ alog &amp;&amp; alog('speed.set', 'drt', +new Date); 
+
+ 
+    if (window.viewTime &amp;&amp; window.viewTime.t) {
+        // body 渲染完成时间
+        window.viewTime.bt = new Date().getTime();
+    }
+    void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&amp;&amp;a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&amp;&amp;a[1]&amp;&amp;a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&amp;&amp;b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&amp;&amp;l&amp;&amp;l&gt;k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+ 
+   require.resourceMap({"res":{"wkview:widget\/common_toc\/common\/doc_tag\/index.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/common_toc\/common\/doc_tag\/index_25e447d.js","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkview:widget\/common_item\/commonUtil\/commonUtil.js","wkview:widget\/model\/vipData.js"]},"wkcommon:widget\/sendToPhoneDialog\/sendToPhoneDialog.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/sendToPhoneDialog\/sendToPhoneDialog_7f71de6.js","deps":["wkcommon:widget\/lib\/doT\/doT.min.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/lib\/fis\/data\/data.js"]},"wkcommon:widget\/dp_performance\/dp_First\/dp_First.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/reader\/config\/config.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/js_core\/mvp\/template\/template.js"]},"wkcommon:widget\/ui\/reader\/model\/doc\/model.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/mvp\/model\/model.js","wkcommon:widget\/ui\/js_core\/mvp\/template\/template.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]},"wkcommon:widget\/ui\/reader\/model\/model.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/model\/doc\/model.js"]},"wkcommon:widget\/ui\/reader\/view\/doc\/util.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js"]},"wkcommon:widget\/ui\/reader\/view\/doc\/render.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/reader\/view\/doc\/util.js"]},"wkcommon:widget\/ui\/reader\/view\/doc\/view.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/mvp\/view\/view.js","wkcommon:widget\/ui\/reader\/view\/doc\/render.js"]},"wkcommon:widget\/ui\/reader\/view\/view.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/view\/doc\/view.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader\/strategy\/doc\/util.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js"]},"wkcommon:widget\/ui\/reader\/strategy\/doc\/strategy.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/preload\/preload.js","wkcommon:widget\/ui\/reader\/strategy\/doc\/util.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/dp_performance\/dp_First\/dp_First.js"]},"wkcommon:widget\/ui\/reader\/strategy\/strategy.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/strategy\/doc\/strategy.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader\/presenter\/presenter.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/mvp\/presenter\/presenter.js","wkcommon:widget\/ui\/js_core\/mvp\/event\/event.js","wkcommon:widget\/ui\/reader\/config\/config.js","wkcommon:widget\/ui\/reader\/model\/model.js","wkcommon:widget\/ui\/reader\/view\/view.js","wkcommon:widget\/ui\/reader\/strategy\/strategy.js","wkcommon:widget\/ui\/reader_plugin\/reader_plugin.js"]},"wkcommon:widget\/ui\/reader\/reader.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/presenter\/presenter.js"]},"wkcommon:widget\/ui\/reader_plugin\/ZeroClipboard\/ZeroClipboard.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/reader_plugin\/qrcode\/qrcode.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/js_core\/qrcode\/qrcode.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/reader_plugin\/translate.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader_plugin\/baike.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/mvp\/template\/template.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader_plugin\/copylimit\/copylimit.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/_dialog\/_dialog.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/lib\/doT\/doT.min.js"]},"wkcommon:widget\/ui\/reader_plugin\/copy.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/reader_plugin\/ZeroClipboard\/ZeroClipboard.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/reader_plugin\/qrcode\/qrcode.js","wkcommon:widget\/ui\/reader_plugin\/translate.js","wkcommon:widget\/ui\/reader_plugin\/baike.js","wkcommon:widget\/sendToPhoneDialog\/sendToPhoneDialog.js","wkcommon:widget\/ui\/reader_plugin\/copylimit\/copylimit.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/reader_plugin\/log.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/match_card.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/lib\/browser\/browser.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/lib\/array\/array.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/match_card.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/getKeycard.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/sio\/sio.js","wkcommon:widget\/ui\/lib\/object\/object.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/js_core\/toolkit\/toolkit.js","wkcommon:widget\/lib\/doT\/doT.min.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/main.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/sio\/sio.js","wkcommon:widget\/ui\/lib\/object\/object.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/getKeycard.js"]},"wkcommon:widget\/ui\/reader_plugin\/videokeyword\/search.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/lib\/array\/array.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/browser\/browser.js"]},"wkcommon:widget\/ui\/reader_plugin\/videokeyword\/video_card\/videocard.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/js_core\/toolkit\/toolkit.js","wkcommon:widget\/lib\/doT\/doT.min.js"]},"wkcommon:widget\/ui\/reader_plugin\/videokeyword\/main.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader_plugin\/videokeyword\/search.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/sio\/sio.js","wkcommon:widget\/ui\/lib\/object\/object.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/video_card\/videocard.js"]},"wkcommon:widget\/ui\/reader_plugin\/reader_plugin.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/reader_plugin\/copy.js","wkcommon:widget\/ui\/reader_plugin\/log.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/main.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/main.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/idList.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/reader_plugin\/keyword\/wordList.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/reader_plugin\/search.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/payCheck\/payCheck.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/payCheck\/payCheck_61061dc.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/js_core\/_dialog\/_dialog.js","wkcommon:widget\/ui\/js_core\/login\/login.js"]},"wkview:widget\/ad\/viewSideDownAd\/viewSideDown.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/ad\/viewSideDownAd\/viewSideDown_ccb5f07.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkview:widget\/common_item\/autofixed\/autofixed.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]},"wkcommon:widget\/ui\/lib\/async_widget\/async_widget.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/lib\/async_widget\/async_widget_e8d6637.js","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]},"wkview:widget\/ui\/detectImgBlock\/conf.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/ui\/detectImgBlock\/conf_bd82ddc.js"},"wkview:widget\/ui\/detectImgBlock\/hijack.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/ui\/detectImgBlock\/hijack_5dabab1.js","deps":["wkview:widget\/ui\/detectImgBlock\/conf.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/lib\/lazyload\/lazyload.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/lib\/lazyload\/lazyload_ff4c82f.js"},"wkcommon:widget\/ui\/lib\/BigPipe\/BigPipe.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/lib\/BigPipe\/BigPipe_1626517.js","deps":["wkcommon:widget\/ui\/lib\/lazyload\/lazyload.js"]},"wkview:widget\/ad_xpageForm\/xpageForm.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/ad_xpageForm\/xpageForm_5a549db.js","deps":["wkcommon:widget\/ui\/js_core\/xform\/xform.js","wkcommon:widget\/lib\/doT\/doT.min.js","wkcommon:widget\/vipNoAdDialog\/vipNoAdDialog.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkview:widget\/common_toc\/reader_html\/page_body\/main.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/common_toc\/reader_html\/page_body\/main_d48614f.js","deps":["wkcommon:widget\/ui\/lib\/async_widget\/async_widget.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkview:widget\/crmAd\/crmAd2.js","wkview:widget\/crm_multi\/crm_multi.js","wkview:widget\/crmAd\/zyAd.js","wkview:widget\/commerce\/fengchao\/modelAnimation.js","wkview:widget\/ui\/detectImgBlock\/detectImgBlock.js","wkview:widget\/ui\/detectImgBlock\/hijack.js","wkcommon:widget\/ui\/lib\/BigPipe\/BigPipe.js","wkview:widget\/crmAd\/crmAd3.js","wkview:widget\/fengchao_right\/fengchao_right.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkview:widget\/ad_xpageForm\/xpageForm.js"]},"wkview:widget\/common_toc\/common\/main.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/common_toc\/common\/main_3e09e8a.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkview:widget\/common_item\/cloudSync\/cloudSync.js","wkview:widget\/common_item\/todoAction\/todoAction.js","wkview:widget\/common_item\/someLog\/someLog.js"]}},"pkg":{"wkcommon:p10":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/pkg\/pkg_wkcommon_htmlReader_3478ee7.js","has":["wkcommon:widget\/dp_performance\/dp_First\/dp_First.js","wkcommon:widget\/ui\/reader\/config\/config.js","wkcommon:widget\/ui\/reader\/model\/doc\/model.js","wkcommon:widget\/ui\/reader\/model\/model.js","wkcommon:widget\/ui\/reader\/view\/doc\/util.js","wkcommon:widget\/ui\/reader\/view\/doc\/render.js","wkcommon:widget\/ui\/reader\/view\/doc\/view.js","wkcommon:widget\/ui\/reader\/view\/view.js","wkcommon:widget\/ui\/reader\/strategy\/doc\/util.js","wkcommon:widget\/ui\/reader\/strategy\/doc\/strategy.js","wkcommon:widget\/ui\/reader\/strategy\/strategy.js","wkcommon:widget\/ui\/reader\/presenter\/presenter.js","wkcommon:widget\/ui\/reader\/reader.js","wkcommon:widget\/ui\/reader_plugin\/ZeroClipboard\/ZeroClipboard.js","wkcommon:widget\/ui\/reader_plugin\/qrcode\/qrcode.js","wkcommon:widget\/ui\/reader_plugin\/translate.js","wkcommon:widget\/ui\/reader_plugin\/baike.js","wkcommon:widget\/ui\/reader_plugin\/copylimit\/copylimit.js","wkcommon:widget\/ui\/reader_plugin\/copy.js","wkcommon:widget\/ui\/reader_plugin\/log.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/match_card.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/getKeycard.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/main.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/search.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/video_card\/videocard.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/main.js","wkcommon:widget\/ui\/reader_plugin\/reader_plugin.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/idList.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/wordList.js","wkcommon:widget\/ui\/reader_plugin\/search.js"]}}});                                                                              
+!function(){            //service worker相关统计
+            require.async(['wkcommon:widget/ui/js_core/log/log.js'],function(Log){
+                try {
+                    function testMime (key, value) {
+                        var mimeTypes = navigator.mimeTypes;
+                        for (var i in mimeTypes) {
+                        if (mimeTypes[i][key] === value) {
+                            return true;
+                        }
+                        }
+                        return false;
+                    }
+                    if (navigator.userAgent.indexOf('Chrome') !== -1) {
+                        Log.xsend(1, 101033);
+                        if (navigator.mimeTypes) {
+                            if (testMime('type', 'application/vnd.chromium.remoting-viewer')) {
+                                Log.xsend(1, 101032);
+                            }
+                        }
+                    }
+                    if ('serviceWorker' in navigator &amp;&amp; 'PushManager' in window) {
+                        Log.xsend(1, 101034);
+                    }
+                } catch (e) {
+
+                }
+            });
+        }();
+!function(){        require.async('wkview:widget/ui/nsTypeMap/nsTypeMap.js');
+    }();
+!function(){    var $ = require('wkcommon:widget/ui/lib/jquery/jquery.js');
+    var sessionX = require('wkcommon:widget/sessionX/sessionX.js');
+    var sessionXMgr = sessionX.sessionXMgr;
+    var urlParam = sessionXMgr.getUrlParam();
+    window.wkCommonLogParam = typeof window.wkCommonLogParam === 'object'
+        ? window.wkCommonLogParam : {};
+    $.extend(true, window.wkCommonLogParam, {
+        '_sessionx_url_param': JSON.stringify(urlParam)
+    });
+}();
+!function(){    require.async(['wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/user_bar/user_bar.js'], function (Data, $) {
+        Data.set('isPgcPop', '');
+        Data.set('smallFlow',true);
+        $( '#reg' ).attr( 'href', 'https://passport.baidu.com/v2/?reg&amp;tpl=do&amp;u=' + encodeURIComponent( location.href ) );
+    });
+}();
+!function(){    window.escapeSymbol=function(e){return String(e).replace(/[#%&amp;+=\/\\\ \u3000\f\r\n\t]/g,function(e){return"%"+(256+e.charCodeAt()).toString(16).substring(1).toUpperCase()})},window.setHeadUrl=function(e){if(document.getElementById("kw").value){var t=new RegExp("[?]");if(!t.test(e.href)){var r=e.href;e.href=e.getAttribute("data-href"),e.setAttribute("data-href",r)}e.href=e.href.replace("?newmap=1&amp;ie=utf-8&amp;s=s%26wd%3D","?newmap=1&amp;ie=utf-8&amp;s=s&amp;wd="),e.href=e.href.replace(new RegExp("("+e.getAttribute("wdfield")+"=)[^&amp;]*"),"$1"+encodeURIComponent(document.getElementById("kw").value)).replace("?newmap=1&amp;ie=utf-8&amp;s=s&amp;wd=","?newmap=1&amp;ie=utf-8&amp;s=s%26wd%3D"),e.href=e.href.replace(new RegExp("("+e.getAttribute("wdfield")+"=)[^&amp;]*"),"$1"+window.escapeSymbol(document.getElementById("kw").value))
+}else{var t=new RegExp("[?]");if(t.test(e.href)){var r=e.href;e.href=e.getAttribute("data-href"),e.setAttribute("data-href",r)}}};;
+    }();
+!function(){    require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/header/search_box/search_box.js'], function(T, Data){
+
+    var hotword = T.json.parse('[{\x22content\x22:\x22ppt\x22,\x22isnew\x22:\x221\x22},{\x22content\x22:\x22\\u5165\\u515a\\u7533\\u8bf7\\u4e66\x22,\x22isnew\x22:\x220\x22},{\x22content\x22:\x22\\u4e2a\\u4eba\\u7b80\\u5386\x22,\x22isnew\x22:\x221\x22}]');
+
+    Data.set('hotword', hotword);
+    });
+}();
+!function(){    require.async(['wkcommon:widget/header/category/category.js'], function (Category) {
+        new Category();
+    });
+}();
+!function(){    require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkcommon:widget/ui/js_core/login/login.js", "wkcommon:widget/ui/lib/jquery/jquery.js", "wkcommon:widget/ui/js_core/log/log.js"],function(e,n,i,o){e.dom.ready(function(){var t=(e.event,e.g);o.xsend(1,100753);var a=document.location.pathname,r={"nav-index":/^\/$/i,"nav-edu":/^\/edu/i,"nav-org":/^\/org\/index/i},u=(n.login,100);for(var c in r)if(r.hasOwnProperty(c)){var s=r[c];if(s.test&amp;&amp;s.test(a)){var d=t(c);d&amp;&amp;e.addClass(d,"current")}}!function(){var n=document.location.pathname,i=(e.dom.g("zone-menu"),e.dom.q("ui-sub-nav","hd","div")[0]),o=[/^\/edu\/index$/i,/^\/ppt\/index$/i,/^\/life\/index$/i,/^\/pro\/index$/i,/^\/form\/index$/i,/^\/topic$/i],t=function(){for(var e={isZonePage:!1,zoneType:""},i=0,t=o.length;t&gt;i;i++){var a=o[i];
+a.test(n)&amp;&amp;(e.isZonePage=!0,e.zoneType=n)}return e}();if(t.isZonePage&amp;&amp;i)for(var a=i.getElementsByTagName("a"),r=0,u=a.length;u&gt;r;r++){var c=a[r],s=c.getAttribute("href");(t.zoneType===s||document.location.href===s)&amp;&amp;e.dom.addClass(c.parentNode,"current")}}(),function(){function e(){a.hide(),t.removeClass("current")}function n(){a.show(),t.addClass("current")}var o="";if(!o){var t=i("#zone-menu"),a=i("#wk-all-cate"),r=null;t.mouseenter(function(){r&amp;&amp;clearTimeout(r),r=setTimeout(function(){n()
+},u)}).mouseleave(function(n){r&amp;&amp;clearTimeout(r),n.relatedTarget!=a[0]&amp;&amp;e()}),a.mouseenter(function(){n()}).mouseleave(function(){e()})}}(),function(n){var i=null;n("ul.main-nav li").on("mouseenter",function(){var e=n(this),o=e.find(".drop-sub-nav");o.length&amp;&amp;o.find("&gt;a").length&amp;&amp;(i=setTimeout(function(){o.show(),e.addClass("current")},u))}),e.cookie.get("__join_jiaoyu_vip")?n(".havenew-ic").hide():(n(".havenew-ic").show(),n(".jiaoyu-vip").on("click",function(){n(".havenew-ic").hide(),e.cookie.set("__join_jiaoyu_vip",1,{path:"/"})
+})),n("ul.main-nav li").on("mouseleave",function(){i&amp;&amp;clearTimeout(i),n(this).find(".drop-sub-nav").hide(),n(this).removeClass("current")})}(i)})});;
+}();
+!function(){    require.async('wkview:widget/ui/nsTypeMap/nsTypeMap.js');
+}();
+!function(){    require.async('wkview:widget/top_ads_banner/top_ads_banner.js',
+        function (topAdsBanner) { 
+            new topAdsBanner({
+                crumbs: '教育专区,高等教育,教育学'
+            });
+        }
+    );
+}();
+!function(){			var tagArr = [];
+		require.async(['wkview:widget/doc_header_new/index.js'], function (Index) {
+		this.index = new Index({
+			id: '0',
+			veritype: '',
+			oid: '',
+			hasTag: !!'',
+			tagArr: tagArr
+		});
+	});
+}();
+!function(){    require.async(['wkview:widget/common_toc/common/doc_tag/index.js'], function (DocTag) {
+        this.docTag = new DocTag();
+    });
+}();
+!function(){    require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/vipNoAdDialog/vipNoAdDialog.js'], function($, NoAdDialog) {
+        if ($('.ad-logo').length &gt; 0) {
+            $('.ad-logo').each(function () {
+                $(this).click(function () {
+                    new NoAdDialog();
+                });
+            });
+        }
+    })
+}();
+!function(){        require.async(['wkview:widget/common_toc_reader/common/doc_banner/compAsync/index.js'], function (CompAsync) {
+            new CompAsync();
+        });
+
+    }();
+!function(){    require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/vipNoAdDialog/vipNoAdDialog.js'], function($, NoAdDialog) {
+        if ($('#html-reader-AD-3t4').length &gt; 0) {
+            $('#html-reader-AD-3t4').on('click', '.ad-logo', function () {
+                new NoAdDialog();
+            });
+        }
+    })
+}();
+!function(){    require.async(['wkview:widget/common_toc_reader/common/doc_banner/index.js', 'wkview:widget/common_toc_reader/common/ad/ad.js'], function (DB, ad) {
+        this.db = new DB({
+            id: '2'
+        });
+
+        var isJiaoyuVip = parseInt('0', 10);
+        var jobHunt = {
+            isJobHunt: parseInt('1', 10),
+            buttonTips: '立即免费领取',
+            url: 'http:\/\/ty2.acadsoc.com.cn\/?search=2023170',
+            statisticsClickId: '101326',
+            pageTips: '恭喜您获得价值300元的托福雅思剑桥测评课',
+            statisticsDisplayId: '101325',
+            keyword: 'gre,GRE,一对一,1对1,托福,成人,tofel,TOFEL,ielts,IELTS,单词,百词斩,语法,时态,完形,词汇,剑桥,英孚,外教,大学,考试,大英,语言,语培,商务,翻译,外交,传译,外贸,商务,外资,外企,留学,雅思,托福,TOEFL,toefl,SAT,sat,IELTS,ielts,GRE,gre,gmat,GMAT,国外,留学,出国,出国读高中,出国,机经,tpo,TPO,og,OG,红宝书,词以类记,管卫东,GWD,gwd,IBT,ibt,写作真经,剑桥真题,剑1,剑2,剑3,剑4,剑5,剑6,剑7,剑8,剑9,剑10,剑11,剑12,剑13,王陆,剑桥1,剑桥2,剑桥3,剑桥4,剑桥5,剑桥6,剑桥7,剑桥8,剑桥9,剑桥10,剑桥11,剑桥12,剑桥,赛达考试'
+        };
+        if ('xreader' === 'ppt') {
+            jobHunt = false;
+        }
+        var docInfo = {
+            docId: 'd7de31cf763231126edb11d2',
+            title: '软件工程考试重点内容'
+        };
+        ad.init(isJiaoyuVip, jobHunt, docInfo);
+    })
+}();
+!function(){        require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkcommon:widget/lib/fis/data/data.js", "wkcommon:widget/ui/reader/reader.js", "wkcommon:widget/ui/js_core/log/log.js", "wkview:widget/ui/view/reader_pace/reader_pace.js", "wkview:widget/common_toc_reader/reader_xreader/index.js", "wkview:widget/common_item/endPageFcShow/endPageFcShow.js", "wkview:widget/view_recom_thirdad/endPageGoldClueAd/endPageGoldClueAd.js"],function(){{var e=arguments,o=0,d=e[o++],n=e[o++],a=e[o++],r=e[o++],t=e[o++],i=e[o++];e[o++],e[o++]}d.dom.ready(function(){r.xsend(1,101170),window.viewTime.s=(new Date).getTime();var e=d.dom.g("reader-container-1"),o=parseInt("1",10),c=parseInt("11",10),s=[o,Math.min(o+49,c)],f=!0,g=n.get("WkInfo");g.DocInfo.isApi&amp;&amp;(f=!1),window.player=a.reader({type:"doc",els:d.dom.query(".bd",e),doc_id:"d7de31cf763231126edb11d2",doc_id_update:"8f9cf8ea04a1b0717fd5dd80",pageCount:s[1]-s[0]+1,startPage:o,isLogin:parseInt("0",10),zoomLevel:1,copyable:!parseInt("0",10),pw:e.offsetWidth,ph:e.offsetHeight,container:e,readerVersion:"6",loadingHTML:'&lt;div class="xreader-loading-layer"&gt;&lt;/div&gt;',errorHTML:'&lt;div class="xreader-error-layer"&gt;&lt;/div&gt;',needPlugins:f}),r.send("view","load",{docId:"d7de31cf763231126edb11d2",success:1,docType:"doc",ext:"doc",fr:"in",version:"6",cid1:"1",cid2:"10",cid3:"118",cid4:"0",ply:"html"});var l=n.get("WkInfo").readerFromSetting;l&amp;&amp;(document.body.style.visibility=""),window.player&amp;&amp;window.player.create();var I=!1,p=d.lang.eventCenter;I&amp;&amp;p.addEventListener("ReaderCreate.after",function(e,o){var d=o.reader;d.NS_IK_getPagethOnClose=function(){return d.getPage()},d.NS_IK_getPageOffset=function(){return 0};var n={getReader:function(){return d}},a=t.readerPace,r=new a(n);r.sendPaceInRate(),p.removeEventListener("ReaderCreate.after","RP")},"RP");var w=function(){var e=1,o=i.htmlReader;window.reader=new o({el:"reader-container-1",doc_id:"d7de31cf763231126edb11d2",doc_id_update:"8f9cf8ea04a1b0717fd5dd80",htmlUrls:'{\x22ttf\x22:[{\x22pageIndex\x22:1,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=0-30580&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:2,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=30581-56591&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:3,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=56592-92624&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:4,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=92625-133260&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:5,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=133261-155150&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:6,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=155151-170465&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:7,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=170466-187214&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:8,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=187215-206358&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:9,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=206359-219404&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:10,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=219405-264321&amp;sign=1a301b4748\x22},{\x22pageIndex\x22:11,\x22param\x22:\x22&amp;md5sum=31b880c0a63e714adc6542bcce44b055&amp;range=264322-&amp;sign=1a301b4748\x22}],\x22json\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=0-13530&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XJmJvhjvwHYZ3E%2FsDJcSvER86%2FLhGPlAv56T%2FqwR4mo%3D.1556719391\x22},{\x22pageIndex\x22:2,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=13531-26879&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.3HKBEpLAfYth00UOdVbrKfLf56%2Fx11w4Sy1YbKpf3NA%3D.1556719391\x22},{\x22pageIndex\x22:3,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=26880-46089&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.m9h3EWQZIJCMoJtGd3U1dKf5g%2FJtUQWAT%2B%2FUrWIw370%3D.1556719391\x22},{\x22pageIndex\x22:4,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=46090-72378&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.KQApx%2FhtTXesnm3uEa33b7Tv9hLfgbwFjW%2FLQsj9Yls%3D.1556719391\x22},{\x22pageIndex\x22:5,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=72379-92319&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.%2BrlaZcJX0zk1XbFwqVB0xzRt%2BrHBVAMQNntMbdvrS%2Fs%3D.1556719391\x22},{\x22pageIndex\x22:6,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=92320-145151&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.fL3D6IxWFH%2FuGyIjxkgfOutKLX8cH1TgkDRBe0s3cBY%3D.1556719391\x22},{\x22pageIndex\x22:7,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=145152-161273&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.00XRUQpodCIU9olVmYkBUZsX6KUTMDdKk4UMt0Bo0Gs%3D.1556719391\x22},{\x22pageIndex\x22:8,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=161274-179784&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.oMoYNcycFGuzK%2FYmMxqo5vuAdbah0lJm11haeoyI4lA%3D.1556719391\x22},{\x22pageIndex\x22:9,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=179785-186326&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.lSm8zeicjB6o0MHJlOMDUh3Sf0PWL6U0rLR6UUQ1d1Q%3D.1556719391\x22},{\x22pageIndex\x22:10,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=186327-199915&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.hGgeSSStcMSPvw3QuyRY6CKaRvhYdSsS6e%2FHPcNLcIs%3D.1556719391\x22},{\x22pageIndex\x22:11,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.json?responseContentType=application%2Fjavascript&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2Fe270e43e686a60ac4b695896bb6ee7315640b070b9e914a512aa5b62cc60625b&amp;x-bce-range=199916-&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.rZDs%2F8WujNgjOAmUrSTByW7z%2Btsp%2B4Lq89qNJUMuC4A%3D.1556719391\x22}],\x22png\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:2,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:3,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:4,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-0&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.n6jzt2YthdTMKw9HT0vLAA5AardJVyH4eO7fNUI5rkE%3D.1556719391\x22},{\x22pageIndex\x22:5,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=0-1372&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.aduDeKjdh3iJcq517pxgcBLRrREmFJYW73B2e30GlQo%3D.1556719391\x22},{\x22pageIndex\x22:6,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=1373-5679&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.ivCl6PGI1jqi%2BBUyN3PQQKNTcU%2FtB8fIf5v5Vo%2BdonM%3D.1556719391\x22},{\x22pageIndex\x22:7,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=5680-26496&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.nAXyliLKgZyCuLvuuQatkAgI3I2IbG%2Bzv%2FGpvYKdQak%3D.1556719391\x22},{\x22pageIndex\x22:8,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=26497-28469&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XWw6TvFWzEhLnuQPFHWGpdyWjcImxWxQ9bpiK604iPU%3D.1556719391\x22},{\x22pageIndex\x22:9,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=28470-37345&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XfZYsgMOlarJyI0OtzSqaM%2FHwLAP3Vqoy0q9HmweIgQ%3D.1556719391\x22},{\x22pageIndex\x22:10,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=37346-37346&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.XtI8UIaDagqmMqoVyQJpCelkx0RNNyDdEbTEupnzeow%3D.1556719391\x22},{\x22pageIndex\x22:11,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjcloudbos.bdimg.com\\\/v1\\\/docconvert7083\\\/wk\\\/31b880c0a63e714adc6542bcce44b055\\\/0.png?responseContentType=image%2Fpng&amp;responseCacheControl=max-age%3D3888000&amp;responseExpires=Sat%2C%2015%20Jun%202019%2021%3A03%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-05-01T13%3A03%3A11Z%2F3600%2Fhost%2F484985d78001a21613bbd5a52354706691d719e004d4a0ca325fe08d010a0dd5&amp;x-bce-range=37346-&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU1NjcxOTM5MSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50VHlwZSIsInJlc3BvbnNlQ2FjaGVDb250cm9sIiwicmVzcG9uc2VFeHBpcmVzIiwieC1iY2UtcmFuZ2UiXX0%3D.ApiJK%2FZqK6TqjOzYS2G3K0grQonJvRQQmxFmJp2lXFw%3D.1556719391\x22}]}',type:n.get("WkInfo").docType["1"],startPage:parseInt("1",10),pageCount:parseInt("11",10),totalPageNum:parseInt("11",10),isPayMent:parseInt("0",10),ispaided:parseInt("",10),shareElId:"shareMore-1",zoomLevel:e,reader:window.player,version:"6",bookmark:[parseInt("0",10),parseInt("0",10)],isPrivate:Boolean(""),isLogin:parseInt("0",10),uid:"1",toPage:parseInt("1",10),payment:parseInt("0",10),needPlugins:f})};w(),d.lang.eventCenter.addEventListener("smallFlowDownBtn",function(){r.xsend(1,101167)})})});;
+    }();
+!function(){    require.async(['wkview:widget/common_toc_reader/common/doc_bottom/compAsync/index.js'], function (CompAsync) {
+        new CompAsync();
+    });
+    require.async(['wkview:widget/common_toc_reader/common/doc_bottom/doc_bottom.js'], function (DB) {
+        this.db = new DB();
+    })
+}();
+!function(){    require.async(['wkview:widget/next_doc/next_doc.js'], function (ND) {
+        ND();
+    });
+}();
+!function(){    require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkview:widget/ui/view/doc_share/doc_share.js", "wkview:widget/ui/view/pay_org_vip/pay_org_vip.js", "wkcommon:widget/ui/payCheck/payCheck.js", "wkcommon:widget/lib/fis/data/data.js", "wkcommon:widget/ui/js_core/log/log.js", "wkcommon:widget/ui/js_core/util/util.js", "wkview:widget/ui/util/util.js", "wkview:widget/common_toc_reader/reader_xreader/index.js", "wkcommon:widget/ui/js_core/login/login.js", "wkcommon:widget/ui/js_core/dialogCashier/dialogCashier.js", "wkview:widget/ui/view/down_doc/down_doc.js", "wkview:widget/ui/view/down_wangpan/down_doc.js"],function(){{var e=arguments,o=0,d=e[o++],n=e[o++],i=(e[o++],e[o++],e[o++]),c=e[o++],t=e[o++],r=e[o++],a=(e[o++],e[o++]),s=(e[o++],e[o++]),l=e[o++],f=s.downDocCreate();l.downDocCreate()}d.lang.eventCenter.addEventListener("download.doc",function(e,o){o=o||{};var d=o.from||!1;"payDialog"===d?f.getFile():f.start()}),i.set("readerStartPage",parseInt("1",10)),d.lang.eventCenter.addEventListener("pack.button.hide",function(){$(".pack-pay").css("display","inline-block")});var w=3;d.dom.ready(function(){function e(){var e=d.page.getViewWidth(),o=d.dom.query("#bd .body")[0].offsetWidth,n=d.dom.g("doc");n.style.width=o&gt;e?o+"px":"auto",n=null}$("body").addClass("newTools"),$(".btn-login-joinvip-rightnow").on("click",function(){d.lang.eventCenter.addEventListener("Login.Success",function(e){d.event.stop(e),c.xsend(1,101911),window.location.href="/cashier/browse/dispatch?dqStatCode=31_8_9_97&amp;from_doc=d7de31cf763231126edb11d2"});var e=i.get("WkInfo").PageInfo.isLogin;e||c.xsend(1,100349),c.xsend(1,100349),c.xsend(1,101911),window.location.href="/cashier/browse/dispatch?dqStatCode=31_8_9_97&amp;from_doc=d7de31cf763231126edb11d2"});var o=n.shareToCreate({el:d.dom.q("reader-tools-share")[0],view:"viewReader-1",copy:"copyCode-1",panel:"panel-1",closePanel:"closePanel-1",toggleSize:["normalSize-1","bigSize-1"],codeText:"readerCode-1",copyResult:"copyResult-1"});o.show();var s=function(){var e=d.dom.g("normalSize-1").checked;return e?"small":"big"};d.event.on("viewReader-1","click",function(){c.send("view","share",{subtype:"sharepreview",size:s(),pos:"top",copyright:3,readerVersion:w})}),d.event.on("copyCode-1","click",function(){c.send("view","share",{subtype:"sharecopy",size:s(),pos:"top",copyright:3,readerVersion:w})}),d.lang.eventCenter.addEventListener("Reader.zoomChange",function(){var o=d.dom.query("#bd .body")[0],n=d.dom.query("#bd .bd-wrap")[0],i=d.dom.query("#bd .crubms-wrap");i.length&gt;1&amp;&amp;(i=i[0],i.style.width=o.offsetWidth+"px"),n.style.minWidth=o.offsetWidth+"px",e()}),d.lang.eventCenter.addEventListener("Reader.WindowResize",e),d.lang.eventCenter.addEventListener("Reader.fullScreenResize",e),parseInt("0",10)&amp;&amp;c.send("view","payview",{docId:"d7de31cf763231126edb11d2",docType:"doc",ext:"doc",fr:"in",version:"6",cid1:"1",cid2:"10",cid3:"118",cid4:"0",ply:"html",pn:"11"});var l="",f="",g=t.debounce(function(){c.send("view","toolbarClick",{area:"toolbar",mode:f,item:l,docType:"doc",ext:"doc",fr:"in",version:"6",cid1:"1",cid2:"10",cid3:"118",cid4:"0",ply:"html"})},1e3);d.lang.eventCenter.addEventListener("ReaderToolsBar.itemClick",function(e,o){var d=o.setting.isFullScreen;l=o.name,f=d?"fullscreen":"normalscreen","fullscreen"===l&amp;&amp;(f=d?"normalscreen":"fullscreen",l=d?"fullscreen":"normalscreen"),g()});var p=parseInt("1",10),v=(new Date).getTime(),u=function(e){c.send("view","browse",{docId:"d7de31cf763231126edb11d2",docType:"doc",ext:"doc",page:e,fr:"in",version:"6",cid1:"1",cid2:"10",cid3:"118",cid4:"0",ply:"html"})};d.lang.eventCenter.addEventListener("Reader.scroll",function(e,o){var d=o.currentPage;if(d!==p){var n=(new Date).getTime();n-v&gt;500&amp;&amp;u(p),p=d,v=n}}),function(){d.lang.eventCenter.addEventListener("view-log",function(e,o){var d=o.method||"send",n=o.args||[],r=i.get("WkInfo").DocInfo;("send"===d||"nslog"===d)&amp;&amp;n.length&gt;2&amp;&amp;t.mix(n[2]||{},{cid1:r.cid1,cid2:r.cid2,cid3:r.cid3,cid4:r.cid4,docId:r.docId,doctype:r.docType},!0),c[d]&amp;&amp;c[d].apply(this,n)})}();window.name="",document.body.focus(),d.event.on(window,"onbeforeunload",function(){var e=window.reader.getPage(),o=0;r.saveViewedPage("d7de31cf763231126edb11d2",e,o)}),d.cookie.remove("newMark",{path:"/view/"}),d.lang.eventCenter.addEventListener("do-login",function(){a.login.verlogin(function(){location.reload()})})})});;
+}();
+!function(){	require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkview:widget/kg_recommend/util/config.js'], function ($, T, Data, config) {
+
+        // 在原来的view页面底部——你可能喜欢（stru_recom.tpl）模块没有数据就派发kgRecommendview
+        T.lang.eventCenter.addEventListener('kgRecommendview', kgRecommendviewRender);
+
+        function kgRecommendviewRender () {
+            // 全局变量
+            Data.set('docId', 'd7de31cf763231126edb11d2');
+
+            // 请求总接口，判断是否有知识图谱相关推荐模块
+            var url = config.url[config.type['getrelinfo']];
+            var options = {
+                doc_id: 'd7de31cf763231126edb11d2'
+            };
+            $.getJSON(url + '?callback=?', options).then(function (data) {
+                if (data.code === 0) {
+                    require.async(['wkview:widget/kg_recommend/kg_recommend.js'], function (kgRecommend) {
+                        // 入口文件
+                        new kgRecommend.main({
+                            'el': '.kgrecommend-wrap',
+                            'docId': 'd7de31cf763231126edb11d2',
+                            'data': data
+                        });
+                    });
+                }
+            });
+        }
+	});
+}();
+!function(){    require.async(['wkview:widget/stru_recom/index.js'], function (Recom) {
+        this.recom = new Recom({
+			readerType: 'xreader',
+            recommendType: '',
+            uid: '3',
+            docId: 'd7de31cf763231126edb11d2',
+            refer_query: ''
+        });
+    });
+}();
+!function(){    require.async('wkview:widget/comment/comment_default/comment_default.js');
+}();
+!function(){    require.async(['wkview:widget/ad/commonAd/commonAd.js'], function (page) {
+        page.init();
+    });
+}();
+!function(){    require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/vipNoAdDialog/vipNoAdDialog.js'], function($, NoAdDialog) {
+        $('.ft .ad-vip-close-bottom, .ggbtm-vip-close').on('click', function() {
+            new NoAdDialog();
+        });
+    });
+}();
+!function(){    require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/ui/js_core/login/login.js', 'wkcommon:widget/ui/js_core/log/log.js', 'wkcommon:widget/ui/lib/store/store.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/lib/jquery/jquery.js'], function (T, Login, log, Store, Data, $) {
+        log.xsend(1,100601);
+        var login = Login.login;
+        var islogin = $('.doc-upload').data('login');
+        var $uploadWrap = $('.doc-upload').find('.new-upload-btns');
+
+        if (islogin == true) {
+            $('.btn-upload').attr('href', '/new?fr=view');
+            $('.btn-upload').attr('target', '_blank');
+        }
+        T.event.on('uploadDoc-2', 'click', function (e) {
+            login.verlogin(function () {}, null, null, {
+                actionName: 'upload',
+                fromMod: 'upload'
+            });
+        });
+
+        //上传按钮
+        $('.btn-upload-new').hover(function () {
+            $uploadWrap.show();
+        }, function () {
+            $uploadWrap.hide();
+        });
+        $uploadWrap.hover(function () {
+            $uploadWrap.show();
+        }, function () {
+            $uploadWrap.hide();
+        });
+
+        $uploadWrap.on('click', 'a', function (event) {
+            login.verlogin(function () {}, null, null, {
+                actionName: 'upload',
+                fromMod: 'upload'
+            });
+        });
+
+        $('.btn-upload-new').on('click', function () {
+            var WkInfo = Data.get('WkInfo') || {};
+            if (~~WkInfo.DocInfo.is_exam_link) {
+                log.xsend(1, 100718);
+            }
+        });
+    });
+}();
+!function(){    require.async(['wkcommon:widget/ui/js_core/log/log.js'], function (log) {
+        log.xsend(1, 100621);
+    });
+}();
+!function(){    require.async(['wkview:widget/common_item/serviceEntry/index.js'], function(Index) {
+        this.index = new Index({
+            docTitle: '软件工程考试重点内容',
+            cid1: '1',
+            cid2: '10',
+            cid3: '118'
+        });
+    });
+}();
+!function(){    require.async(['wkview:widget/ad/viewSideDownAd/viewSideDown.js'], function (viewSideDown) {});
+}();
+!function(){    require.async(["wkcommon:widget/360tip/360tip.js"],function(e){var r=e.showTopTip,t={referer:""};new r(t).create()});;
+}();
+!function(){    var bds_config = {
+        bdPic: '//gss0.baidu.com/70cFsjip0QIZ8tyhnq/img/iknow/wenku/erweima2001.jpg',
+        snsKey: {
+            tsina: 2273341579,
+            tqq: 801199444
+        },
+        bdText: '我正在@百度文库 阅读【软件工程考试重点内容】这篇文章，推荐给大家！用文库客户端可以免积分下载该文档，客户端下载地址：http://'
+            + location.host
+            + '/apps?fr=2001 想立即阅读该文档点这里：'
+    };
+    document.getElementById('bdshell_js').src = '//edu-wenku.bdimg.com/v1/pc/bdshare/static/api/js/share.js?cdnversion=' + new Date().getHours();
+    // 重写qzone分享事件
+    require.async(['wkcommon:widget/lib/tangram/base/base.js'], function (T) {
+        // 重写qzone分享事件
+        var qzones = T.q('sns_qzone');
+        if (qzones) {
+            T.array.each(qzones, function (item, i) {
+                T.event.on(item, 'mouseover', function () {
+                    T.ajax.post(
+                        '/user/interface/qqShareOption',
+                        'app=bind_status',
+                        function (xhr, responseText) {
+                            try {
+                                var errno = eval('(' + responseText + ')');
+                                // 如果已绑定
+                                if (errno.list.join(',').indexOf('qq') &gt; -1) {
+                                    if (item.innerHTML.indexOf('分享到QQ空间') &lt; 0) {
+                                        item.innerHTML = '';
+                                    }
+                                    qzones[i].onclick = function () {
+                                        window.open(
+                                            'http://'
+                                                + location.host
+                                                + '/user/browse/qqShare?url=' + T.string.encodeHTML(location.href),
+                                            'blank'
+                                        );
+                                    }
+                                }
+                            }
+                            catch (ex) {}
+                        }
+                    );
+                });
+            });
+        }
+    });
+}();
+!function(){    require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkview:widget/fix_searchbar/fix_searchbar.js', 'wkcommon:widget/lib/fis/data/data.js'], function ($, FSB, Data) {
+        $(function () {
+            new FSB.fixSearchBar({
+                evaluateBoxId: '#doc-evaluate-mod',
+                evaluateTagId: '#doc-main',
+                evaluatePreCl: '.reder-share-model'
+            });
+            $('.top-down-load-container').addClass('view_change_test');
+        } );
+    } );
+}();
+!function(){    require.async(['wkview:widget/ad_taishan/ad_taishan.js'], function (adTaishan) {
+        T.lang.eventCenter.addEventListener('ReaderCreate.after', function () {
+            adTaishan.init();
+        });
+    });
+}();
+!function(){	require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/ui/js_core/log/log.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/ui/js_core/util/util.js', 'wkcommon:widget/ui/js_core/eventCenter/eventCenter.js'], function (T, log, $, util, E) {
+		$.ajax({
+			url: '/doc/interface/gaokaozhenti?docid=d7de31cf763231126edb11d2',
+			success: function (json) {
+				if (json.data.flag) {
+					log.xsend(1, json.data.act_id);
+				}
+			}
+		});
+		// 阅读器统计
+		log.send('view', 'htmlview', {
+			docId: 'd7de31cf763231126edb11d2',
+			docType: 'doc',
+			cid1: '1',
+			cid2: '10',
+			cid3: '118',
+			cid4: '0',
+			totalPageNum: '11',
+			pn: '1'
+		});
+
+		// 浏览历史记录请求
+		
+		util.windowResize(function () {
+			resize();
+		});
+
+		setTimeout(function () {
+			resize();
+		}, 1000);
+		function resize() {
+			$('#html-reader-our-ad-1').css( 'width', $('.reader-container').css('width') );
+			$('#ggbtm').css('width', $('.reader-container').css('width') );
+		}
+
+	});
+}();
+!function(){    require.async(['wkview:widget/common_toc/reader_html/page_body/main.js'], function (PageBody) {
+        this.pageBody = new PageBody({
+            docId: 'd7de31cf763231126edb11d2',
+            docTitle: '软件工程考试重点内容',
+            flag: +'1',
+            needShowAd: +'1',
+            needShowAd2: +'1',
+            orgName: '',
+            is_tianyancha_doc: ''
+        });
+    });
+}();
+!function(){    require.async(['wkcommon:widget/ui/js_core/log/log.js'], function (log) {
+        log.xsend(1, 100737, {
+            sf_svip: '2111' || 0,
+            reader_type: 'reader_html'
+        });
+        var professionalDoc = '' || 0;
+        if (professionalDoc) {
+            log.xsend(1, 101653);
+        }
+        var $isPartnerDoc = '' || 0;
+        var $isPaied = '' || 0;
+        var $isPickDoc = '0' || 0;
+        if (+$isPartnerDoc) {
+            log.xsend(1, 101792, {
+                index: 10
+            });
+            if (+$isPaied) {
+                log.xsend(1, 101792, {
+                    index: 11
+                });
+            }
+        }
+        if (+$isPickDoc) {
+            log.xsend(1, 101835, {
+                index: 1
+            });
+        }
+    });
+}();
+!function(){    require.async(['wkview:widget/common_toc/common/studyPopup/studyPopup.js'], function (studyPopup) {
+        studyPopup.init({
+        	'orgid': '',
+        	'orgname': '',
+        	'shouldpop': +'',
+        	'docid': 'd7de31cf763231126edb11d2',
+        	'pagetype': 'view',
+            'xpageSwitch': +'1'
+        });
+    });
+}();
+!function(){        require.async(['wkview:widget/common_toc/common/main.js'], function () {})
+    }();
+ 
+    关闭                   
+      
+     
+         
+              
+         
+          
+         
+             
+ 
+ 
+ 搜试试 
+ 2 
+  
+  
+ 
+   悬赏文档  
+ 
+  全部 
+  DOC 
+  PPT 
+  TXT 
+  PDF 
+  XLS 
+  
+ 
+ 
+ 
+ 
+  
+           
+          
+            
+             
+                  
+                 马上扫一扫 
+                 
+                    手机打开 
+                    随时查看
+                 
+             
+             
+                  
+                在手机打开
+             
+             
+                    
+                  内容定制新玩法！  
+             
+         
+         
+             
+                 
+                      下载 
+              
+              
+                 2 下载券  
+              
+              
+                 做任务领下载券  
+                 立即前往  
+                   
+              
+          
+          
+         
+         
+      
+      
+           
+          
+             
+          
+     
+             
+     
+         
+     
+      
+     广告 
+                 选择内容扫一扫 立即发送到手机   ×        VIP享无限制发送特权   *已选择了  字，最多支持100字            以下结果由 提供：     ×         百度翻译            百科词条：     ×         百度百科         热门 免费送    客户端    极速收纳    反馈        扫码下载文库APP  随时随地浏览文档      百度教育VIP专属资源,免费任性!  更多          中国历史风云录  和教科书迥然不同的中国历史挽救你被洗脑的智商   加入VIP免费读全本     收藏   已收藏至百度阅读 我的书架           全网好内容不错过 试试极速收纳吧!                               评价文档：                              分享到：  QQ空间  新浪微博  微信       扫二维码，快速分享到微信朋友圈              文档可以转存到百度网盘啦！            /11       2下载券   立即下载           加入VIP  免券下载                 打开链接   |    复制   |   发送到手机   |   搜索   |   翻译                文字已复制           
